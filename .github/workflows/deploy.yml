@@ -17,4 +17,4 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           repository: ${{ matrix.repo }}
           event-type: build
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "content", "branch": "main"}'
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "content", "branch": "v4"}'
