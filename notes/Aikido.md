@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Concepts Map|./miniMaps/Concepts Map]]"
+  - "[[Concepts Map|Concepts Map]]"
 related:
   - "[[./No-Face|No-Face]]"
 created: 2020-06-01
