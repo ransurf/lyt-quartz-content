@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/miniMaps/Concepts Map|ideas/miniMaps/Concepts Map]]"
+  - "[[notes/miniMaps/Concepts Map|notes/miniMaps/Concepts Map]]"
 related: []
 created: 2020-06-01
 tags:
@@ -16,6 +16,6 @@ tags:
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
 ### Example Usage, Keywords, Concepts, and Metaphors
-- Thesis. Antithesis. Synthesis [[201408190641|201408190641]] - ie Hegelian dialectic [[ideas/MOCs are Dialectics|ideas/MOCs are Dialectics]]
+- Thesis. Antithesis. Synthesis [[201408190641|201408190641]] - ie Hegelian dialectic [[./MOCs are Dialectics|MOCs are Dialectics]]
 - Chinese culture and Confucianism - Chinese civilization is the longest living because of its ability to synthesize disparate entities, like it's doing currently with Communism and Capitalism.
 - The Borg - via assimilation
