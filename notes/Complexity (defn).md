@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Notes/miniMaps/Systems MOC (kit)|Notes/miniMaps/Systems MOC (kit)]]"
+  - "[[./miniMaps/Systems MOC (kit)|./miniMaps/Systems MOC (kit)]]"
 related:
   - "[[./Divergence (defn)|Divergence (defn)]]"
   - "[[./Convergence (defn)|Convergence (defn)]]"

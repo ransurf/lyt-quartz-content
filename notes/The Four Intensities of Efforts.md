@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[Notes/miniMaps/Efforts|Notes/miniMaps/Efforts]]"
+  - "[[./miniMaps/Efforts|./miniMaps/Efforts]]"
 related:
   - "[[Why Efforts are Liberating|Why Efforts are Liberating]]"
-  - "[[notes/How ideas and efforts play nicely together|notes/How ideas and efforts play nicely together]]"
+  - "[[./How ideas and efforts play nicely together|./How ideas and efforts play nicely together]]"
 created: 2022-09-01
 ---
 There are four useful intensities for your efforts. 

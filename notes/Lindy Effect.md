@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/miniMaps/Concepts Map|notes/miniMaps/Concepts Map]]"
+  - "[[./miniMaps/Concepts Map|./miniMaps/Concepts Map]]"
 related: []
 created: 2015-09-01
 tags:

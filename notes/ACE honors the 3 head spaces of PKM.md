@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[notes/ACE Folder Framework|notes/ACE Folder Framework]]"
+  - "[[./ACE Folder Framework|./ACE Folder Framework]]"
 related:
-  - "[[notes/ACE helps you with context switching|notes/ACE helps you with context switching]]"
+  - "[[./ACE helps you with context switching|./ACE helps you with context switching]]"
 created: 2023-08-21
 ---
 In PKM, there are three main Head Spaces to move between.

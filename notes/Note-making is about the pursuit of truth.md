@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/On the process of note-making|notes/On the process of note-making]]"
+  - "[[./On the process of note-making|./On the process of note-making]]"
 related: []
 created: 2020-06-01
 ---

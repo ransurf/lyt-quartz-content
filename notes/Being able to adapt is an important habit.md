@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/miniMaps/Habits Map|notes/miniMaps/Habits Map]]"
+  - "[[./miniMaps/Habits Map|./miniMaps/Habits Map]]"
 created: 2014-06-28
 modified: 2020-05-28
 ---

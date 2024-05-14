@@ -2,8 +2,8 @@
 up:
   - "[[Home|Home]]"
 related:
-  - "[[Notes/miniMaps/Add|Notes/miniMaps/Add]]"
-  - "[[notes/miniMaps/Relate|notes/miniMaps/Relate]]"
+  - "[[./miniMaps/Add|./miniMaps/Add]]"
+  - "[[./miniMaps/Relate|./miniMaps/Relate]]"
 created: 2022-01-01
 tags:
   - map_view

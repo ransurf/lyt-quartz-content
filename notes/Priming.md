@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Notes/miniMaps/Psychology MOC (kit)|Notes/miniMaps/Psychology MOC (kit)]]"
+  - "[[./miniMaps/Psychology MOC (kit)|./miniMaps/Psychology MOC (kit)]]"
 related: []
 created: 2020-06-01
 tags:

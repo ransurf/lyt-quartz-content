@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/Small Wins foster a Sense of Control|notes/Small Wins foster a Sense of Control]]"
+  - "[[./Small Wins foster a Sense of Control|./Small Wins foster a Sense of Control]]"
 related: []
 created: 2020-06-01
 ---

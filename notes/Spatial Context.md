@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/Benefits of LYT frameworks|notes/Benefits of LYT frameworks]]"
+  - "[[./Benefits of LYT frameworks|./Benefits of LYT frameworks]]"
 related: []
 created: 2020-06-01
 ---

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/LYT Glossary|notes/LYT Glossary]]"
+  - "[[./LYT Glossary|./LYT Glossary]]"
 related:
   - "[[./MOCs (defn)|MOCs (defn)]]"
 created: 2020-06-01
@@ -9,7 +9,7 @@ created: 2020-06-01
 
 Do you ever wish you could save a search? You can. Saved searches are called "queries".
 
-Data view notes are notes with specific sets of queries using the Dataview community plugin. Such as [[./miniMaps/Add|Notes/miniMaps/Add]]. As you can see, **Data view notes** give you viewports to filter, review, and analyze the information you are accreting. 
+Data view notes are notes with specific sets of queries using the Dataview community plugin. Such as [[./miniMaps/Add|./miniMaps/Add]]. As you can see, **Data view notes** give you viewports to filter, review, and analyze the information you are accreting. 
 
 > On your idea spaceship, data views are your various viewports.
 

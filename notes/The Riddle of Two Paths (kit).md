@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/Trust the process (kit)|notes/Trust the process (kit)]]"
+  - "[[./Trust the process (kit)|./Trust the process (kit)]]"
 related: []
 created: 2020-02-16
 ---

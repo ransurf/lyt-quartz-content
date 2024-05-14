@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/Direction (re Flow)|notes/Direction (re Flow)]]"
+  - "[[./Direction (re Flow)|./Direction (re Flow)]]"
 related: []
 created: 2020-06-01
 tags:

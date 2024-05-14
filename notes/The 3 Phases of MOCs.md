@@ -1,7 +1,7 @@
 ---
 up: []
 related:
-  - "[[notes/MOCs Overview|notes/MOCs Overview]]"
+  - "[[./MOCs Overview|./MOCs Overview]]"
 created: 2020-06-01
 ---
 Welcome to the walkthrough on MOCs. Maps of Content are one of the ultimate thinking tools. But how do you unlock this new superpower?

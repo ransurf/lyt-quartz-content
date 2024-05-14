@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[notes/miniMaps/Habits Map|notes/miniMaps/Habits Map]]"
+  - "[[./miniMaps/Habits Map|./miniMaps/Habits Map]]"
 related:
   - "[[./Habits carry a ton of hidden inertia|Habits carry a ton of hidden inertia]]"
 created: 2020-06-01

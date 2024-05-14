@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Notes/miniMaps/Systems MOC (kit)|Notes/miniMaps/Systems MOC (kit)]]"
+  - "[[./miniMaps/Systems MOC (kit)|./miniMaps/Systems MOC (kit)]]"
 related: []
 created: 2020-06-01
 ---
