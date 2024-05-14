@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[🌍 PKM Planet (OE)|🌍 PKM Planet (OE)]]"
+  - "[[OE)](🌍 PKM Planet (OE|🌍 PKM Planet (OE)]])"
 related:
   - "[[LYT Notes 8|LYT Notes 8]]"
-  - "[[📹 Videos (OE) (Example)|📹 Videos (OE) (Example)]]"
+  - "[[OE) (Example)](📹 Videos (OE|📹 Videos (OE) (Example)]]%20(Example))"
 created: 2021-04-19
 tags:
   - output_youtube☑️
@@ -135,7 +135,7 @@ Recap and talk about the following PKM Planet video series
 
 ---
 Next up:
-[[PKM Planet - Archetypes (Backend Brainstorm)|PKM Planet - Archetypes (Backend Brainstorm)]]
+[[Backend Brainstorm)](PKM Planet - Archetypes (Backend Brainstorm|PKM Planet - Archetypes (Backend Brainstorm)]])
 [[PKM Planet 3 - Note-taking vs note-making|PKM Planet 3 - Note-taking vs note-making]]
 
 ---
