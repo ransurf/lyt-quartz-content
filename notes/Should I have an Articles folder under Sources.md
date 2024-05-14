@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Meta PKM|./miniMaps/Meta PKM]]"
+  - "[[Meta PKM|Meta PKM]]"
 related: []
 created: 2020-06-01
 ---
