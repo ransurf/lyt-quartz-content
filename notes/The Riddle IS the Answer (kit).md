@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Trust the process (kit)|Trust the process (kit)]]"
+  - "[[kit)](Trust the process (kit|Trust the process (kit)]].md)"
 related: []
 created: 2014-01-01
 modified: 2022-03-15
