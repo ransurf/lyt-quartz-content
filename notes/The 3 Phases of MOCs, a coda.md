@@ -20,4 +20,4 @@ Or you could just create a new one... ;)
 ---
 Perhaps you want to return to [[./The 3 Phases of MOCs|The 3 Phases of MOCs]]
 
-Or maybe you want to [[ideas/Set Up Your Home Note|ideas/Set Up Your Home Note]]?
+Or maybe you want to [[./Set Up Your Home Note|Set Up Your Home Note]]?
