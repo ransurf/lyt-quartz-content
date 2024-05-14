@@ -25,4 +25,4 @@ You reach a particularly interesting fork in the overgrown trail. You can contin
 
 Or you can start mapping the forest's unique landscape. Just go to: [[./Set Up Your Home Note|Set Up Your Home Note]].
 
-Or, you can climb the tallest Ent-like tree to get your bearings at a note called [[../home|Home]].
+Or, you can climb the tallest Ent-like tree to get your bearings at a note called [[../home|home]].
