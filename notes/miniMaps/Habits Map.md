@@ -78,4 +78,6 @@ The main contextual queries I prefer are "unrequited" & "unmentioned" notes.
 > - [[../Deliberate Practice|Deliberate Practice]]
 > - [[../Habits MOC - Collide|Habits MOC - Collide]]
 > - [[./Library|Library]]
+> - [[../../maps/Thinking|Thinking]]
+> - [[../Use it or Lose it|Use it or Lose it]]
 > 
