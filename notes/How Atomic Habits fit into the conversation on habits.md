@@ -5,10 +5,10 @@ related: []
 created: 2019-10-01
 modified: 2020-05-28
 ---
-Atomic Habits is a term from James Clear, with a [[Atomic Habits (book)|book of the same name]]. 
+Atomic Habits is a term from James Clear, with a [[Atomic Habits (book|book of the same name]]). 
 
 Here's a summary of his argument:
-- Winners and losers can have the same goals, so what actually makes the difference? The system and process. Yep, makes me this of my ode to The Process, see [[./Trust the process (kit)|Trust the process (kit)]].
+- Winners and losers can have the same goals, so what actually makes the difference? The system and process. Yep, makes me this of my ode to The Process, see [[kit)](Trust the process (kit|Trust the process (kit)]].md).
 - Habits are the fundamental unit of your systems. Your current systems are perfectly designed to provide you with your current results.
 
 James adds a fourth step to Duhigg's habit cycle, which was needed. James is a smart dude. Check out the steps here: [[./Understanding the habit cycle and habitual cues|Understanding the habit cycle and habitual cues]].
