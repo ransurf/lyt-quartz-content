@@ -112,4 +112,4 @@ Then, when you're ready, go to [[./The ACE Folder Framework Flexes For You|The A
 
 ---
 
-> [!NOTE] Note: I tag-teamed on the lens of "intention" with [[Karen Hume|Karen Hume]].
+> [[Karen Hume|!NOTE]].
