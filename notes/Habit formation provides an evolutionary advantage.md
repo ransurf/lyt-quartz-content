@@ -18,7 +18,7 @@ To quit a bad habit, don't try to stop it like Superman; you'll fail. [[./Habits
 ---
 While "habit formation provides an evolutionary advantage", it doesn't necessarily form in the ways you might think—meaning, *your "self" optimizes for what you repeat, regardless of whether or not it's "good" for you.*
 
-![[Willpower - Robinson et al (paper)#^309fcc|Willpower - Robinson et al (paper)]]
+![[Willpower - Robinson et al (paper|Willpower - Robinson et al (paper]]#^309fcc)
 
 [^1]: When it comes to willpower expenditure, the anterior cingulate cortex, is a crucial player.
 [^2]: Quote by Hebb's Rule
