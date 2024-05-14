@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
+  - "[[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)"
 related: []
 created: 2020-06-01
 ---
