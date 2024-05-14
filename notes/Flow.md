@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Concepts Map|./miniMaps/Concepts Map]]"
+  - "[[Concepts Map|Concepts Map]]"
 related: []
 created: 2009-01-22
 tags:
@@ -10,7 +10,7 @@ tags:
 
 The concept of flow has changed my life. Flow is a state of optimal experience.
 
-When you get [[./Reps|Reps]] of [[Atlas/./Vaults/Ideaverse/Atlas/./Ideas/Deliberate Practice|Atlas/./Vaults/Ideaverse/Atlas/./Ideas/Deliberate Practice]] and gain a certain level of competence, then getting more reps creates a [[./Feedback Loop|Feedback Loop]] of deeper focus and [[Flow|Flow]]-like experiences.
+When you get [[./Reps|Reps]] of [[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice|Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice]] and gain a certain level of competence, then getting more reps creates a [[./Feedback Loop|Feedback Loop]] of deeper focus and [[Flow|Flow]]-like experiences.
 
 Read how Flow is similar and different to [[./Wu wei|Wu wei]]. 
 

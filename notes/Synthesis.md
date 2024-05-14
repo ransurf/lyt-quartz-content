@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Concepts Map|./miniMaps/Concepts Map]]"
+  - "[[Concepts Map|Concepts Map]]"
 related: []
 created: 2020-06-01
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
  The combining of separate elements or substances to form a coherent whole.
  
- Related: [[./Convergence (defn)|Convergence (defn)]]
+ Related: [[defn)](Convergence (defn|Convergence (defn)]].md)
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

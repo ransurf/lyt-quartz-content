@@ -2,17 +2,17 @@
 up:
   - "[[./Deliberate Practice|Deliberate Practice]]"
 related:
-  - "[[Analogy as Core (talk)|Analogy as Core (talk)]]"
+  - "[[talk)](Analogy as Core (talk|Analogy as Core (talk)]])"
 created: 2020-06-01
 ---
  *It takes years of focused reps to chunk like an expert.*
 
 Something tells me Tom Brady and Cam Newton see different things. Cam Newton might be 11 defenders. Something tells me Tom Brady sees larger movements and patterns in the defense that he can't even articulate—but he sees them and makes the right read. 
 
-That's how chunking intersects with expertise, intuition, and [[./Deliberate Practice|Deliberate Practice]]. Speaking more to [[K. Anders Ericsson (kit)|K. Anders Ericsson (kit)]]'s work with chess masters, Ericsson noticed that chess masters retrieved knowledge from long term memory around meaningful game patterns that novices did not see or understand. It takes years of focused reps to chunk like an expert.
+That's how chunking intersects with expertise, intuition, and [[./Deliberate Practice|Deliberate Practice]]. Speaking more to [[kit)](K. Anders Ericsson (kit|K. Anders Ericsson (kit)]])'s work with chess masters, Ericsson noticed that chess masters retrieved knowledge from long term memory around meaningful game patterns that novices did not see or understand. It takes years of focused reps to chunk like an expert.
 
-In [[Douglas R. Hofstadter|Douglas R. Hofstadter]]'s speech [[Analogy as Core (talk)|Analogy as Core (talk)]], he says (paraphrased):
-> ![[Analogy as Core (talk)#^ffe150|Analogy as Core (talk)]]
+In [[Douglas R. Hofstadter|Douglas R. Hofstadter]]'s speech [[talk)](Analogy as Core (talk|Analogy as Core (talk)]]), he says (paraphrased):
+> ![[Analogy as Core (talk|Analogy as Core (talk]]#^ffe150)
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

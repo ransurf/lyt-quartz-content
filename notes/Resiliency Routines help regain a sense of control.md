@@ -17,4 +17,4 @@ In the sauna one morning I recognized that I was: *unhappy, unbalanced, and unpr
 
 This is a simple reminder that the solution to not feeling so overwhelmed starts with some simple actions.
 
-[^1]: What's my deal with nounifying important habits? I tire myself... [[./Words I've used to describe important habits|Words I've used to describe important habits]]
+[[./Words I've used to describe important habits|^1]]

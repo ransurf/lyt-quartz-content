@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Between the World and Me (book)|Between the World and Me (book)]]"
+  - "[[book)](Between the World and Me (book|Between the World and Me (book)]])"
 related: []
 created: 2020-06-01
 tags:

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../home|Home]]"
+  - "[[../../home|home]]"
 related: []
 created: 2016-01-01
 tags:
@@ -37,9 +37,10 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 > [!Venetian]+ Unrequited notes
 > These notes point directly to this note. But this note doesn't point back (yet). This is the strongest contextual query.
 > 
->  - [[../Strong opinions, weakly held|Strong opinions, weakly held]]
+>  - [[../Wu wei|Wu wei]]
+> - [[../Strong opinions, weakly held|Strong opinions, weakly held]]
+> - [[../Signal to Noise Ratio|Signal to Noise Ratio]]
 > - [[../Gall's Law|Gall's Law]]
-> - [[../Wu wei|Wu wei]]
 > 
 
 > [!Venetian]- Unmentioned notes in common
@@ -69,4 +70,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[../../home|Home]]
+Back to: [[../../home|home]]

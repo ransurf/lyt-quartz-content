@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Sources Map|./miniMaps/Sources Map]]"
+  - "[[Sources Map|Sources Map]]"
 related: []
 created: 2020-06-01
 tags:

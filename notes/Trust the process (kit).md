@@ -2,8 +2,8 @@
 up:
   - "[[Is LYT For Me|Is LYT For Me]]"
 related:
-  - "[[The Riddle of Two Paths (kit)|The Riddle of Two Paths (kit)]]"
-  - "[[The Riddle IS the Answer (kit)|The Riddle IS the Answer (kit)]]"
+  - "[[kit)](The Riddle of Two Paths (kit|The Riddle of Two Paths (kit)]].md)"
+  - "[[kit)](The Riddle IS the Answer (kit|The Riddle IS the Answer (kit)]].md)"
 created: 2019-08-13
 ---
 

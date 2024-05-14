@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./Direction (re Flow)|./Direction (re Flow)]]"
+  - "[[re Flow)](Direction (re Flow|Direction (re Flow)]].md)"
 related: []
 created: 2020-06-01
 tags:

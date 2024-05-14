@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 related:
   - "[[../Define your time-style|Define your time-style]]"
 created: 2023-08-19

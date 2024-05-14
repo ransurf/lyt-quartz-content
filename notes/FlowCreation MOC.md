@@ -19,8 +19,8 @@ tags:
 
 ---
 - [[./Four Factors of Flow|Four Factors of Flow]]
-	- [[./Attention (re Flow)|Attention (re Flow)]]
-	- [[./Direction (re Flow)|Direction (re Flow)]]
-	- [[./Energy (re Flow)|Energy (re Flow)]]
-	- [[./Enthusiasm (re Flow)|Enthusiasm (re Flow)]]
+	- [[re Flow)](Attention (re Flow|Attention (re Flow)]].md)
+	- [[re Flow)](Direction (re Flow|Direction (re Flow)]].md)
+	- [[re Flow)](Energy (re Flow|Energy (re Flow)]].md)
+	- [[re Flow)](Enthusiasm (re Flow|Enthusiasm (re Flow)]].md)
 

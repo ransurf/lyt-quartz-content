@@ -71,7 +71,7 @@ It is *seen in*...
 ---
 
 - See the web: [Shadow Clone Jutsu in Naruto](https://naruto.fandom.com/wiki/Shadow_Clone_Technique), [The concept of Doppelgangers](https://www.britannica.com/art/doppelganger).
-- See wikipedia: [Shadow Clone Technique](https://en.wikipedia.org/wiki/Naruto#Shadow_Clone_Technique), [Multiplicity (film)](https://en.wikipedia.org/wiki/Multiplicity_(film)).
+- See wikipedia: [[https://en.wikipedia.org/wiki/Naruto#Shadow_Clone_Technique]], [[film)](film|Multiplicity (film)]])).
 
 
 

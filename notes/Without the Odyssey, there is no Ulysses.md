@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
+  - "[[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)"
 related:
   - "[[Kate Bush, Stranger Things, & Idea Emergence|Kate Bush, Stranger Things, & Idea Emergence]]"
 created: 2022-06-26

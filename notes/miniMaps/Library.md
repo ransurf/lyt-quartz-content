@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../home|Home]]"
+  - "[[../../home|home]]"
 related: []
 created: 2020-01-01
 tags:
@@ -30,21 +30,21 @@ Navigate your library of maps with a classification system made specifically for
 > [!NOTE]+ ### 000 - Knowledge Management
 > The [[./Meta PKM|Meta PKM]] shows the best practices of knowledge management. I use the [[Ideaverse Map|Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs|Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
 > 
-> - [[./Relate|Relate]] | [[Logs (Example)|Logs (Example)]] |  [[I want to...|I want to...]]
+> - [[./Relate|Relate]] | [[Example)](Logs (Example|Logs (Example)]]) |  [[I want to...|I want to...]]
 > - [[Cartographer's Corner 🗺|Cartographer's Corner 🗺]] | [[../Commonplace Book|Commonplace Book]] |  [[Knowledge and memory MOC|Knowledge and memory MOC]]
 
 > [!Milestone]+ ### 100 - Personal Management
-> The [[../../maps/Thinking|Thinking]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[../Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[./My Virtues (starter)|My Virtues]] and more.
+> The [[../../maps/Thinking|Thinking]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[../Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[My Virtues (starter|My Virtues]].md) and more.
 > 
 > - [[Posture MOC|Posture MOC]] | [[Hormesis MOC|Hormesis MOC]] | [[Breathing Exercises MOC|Breathing Exercises MOC]] | Flowcreation MOC
-> - People MOC | Family MOC | [[Prominent People (kit)|Prominent People (kit)]]
+> - People MOC | Family MOC | [[kit)](Prominent People (kit|Prominent People (kit)]])
 > - Efforts MOC | [[Life Command ⌘|Life Command ⌘]] | Plans and Reviews
 > - Finances MOC | Health MOC
 
 > [!Puzzle]+ ### 200 - Philosophy, Psychology ; Spirituality, Religion
-> Is there no limit to this section? I use [[./Philosophy MOC (kit)|Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC|Stoicism MOC]], [[Confucianism MOC|Confucianism MOC]], [[Religion MOC|Religion MOC]], [[Taoism MOC|Taoism MOC]], and whatever else comes up.
+> Is there no limit to this section? I use [[kit)](Philosophy MOC (kit|Philosophy MOC (kit)]].md) as the big note and then point to things like: [[Stoicism MOC|Stoicism MOC]], [[Confucianism MOC|Confucianism MOC]], [[Religion MOC|Religion MOC]], [[Taoism MOC|Taoism MOC]], and whatever else comes up.
 > 
-> [[./Psychology MOC (kit)|Psychology MOC (kit)]] is similar but different enough to have its own space.
+> [[kit)](Psychology MOC (kit|Psychology MOC (kit)]].md) is similar but different enough to have its own space.
 
 > [!User]+ ### 300 - Social Sciences
 > *The study of human society and of individual relationships in and to society.*
@@ -58,7 +58,7 @@ Navigate your library of maps with a classification system made specifically for
 > [!Trees]+ ### 500 - Natural Sciences
 > A sharp break from the previous section, the 500s explore the natural world and universe in glorious notes like [[Cosmology MOC|Cosmology MOC]] and [[Math MOC|Math MOC]]. 
 > 
-> See also: Chemistry | Geology | Plants | Animals | [[./Systems MOC (kit)|Systems MOC (kit)]]
+> See also: Chemistry | Geology | Plants | Animals | [[kit)](Systems MOC (kit|Systems MOC (kit)]].md)
 
 > [!Sailboat]+ ### 600 - Applied Sciences
 > A natural progression from the previous section, this is where we take the the fundamentals of nature and *apply* them. My undergrad was in [[Engineering MOC|Engineering MOC]], which relates to my interest in [[Building Homes MOC|Building Homes MOC]]. Later on, I developed the [[Editing Manual MOC|Editing Manual MOC]].
@@ -91,4 +91,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to: [[../../home|Home]]
+Up to: [[../../home|home]]

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./Evergreen notes|./Evergreen notes]]"
+  - "[[Evergreen notes|Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---
@@ -11,7 +11,7 @@ When you follow a process for making evergreen notes, you naturally develop insi
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-The [[Benefits of linked thinking|Benefits of linked thinking]] take time to see so it's important to [[./Trust the process (kit)|Trust the process (kit)]]. 
+The [[Benefits of linked thinking|Benefits of linked thinking]] take time to see so it's important to [[kit)](Trust the process (kit|Trust the process (kit)]].md). 
 
 ---
 All things being equal, no sane person would put their money in a zero interest account, if they could put their money in an account with compounding interest (See [[The Compound Effect|The Compound Effect]]). So why do that with one of the most valuable assets you possess: the ability to effectively remember and utilize your life learnings and experience. 

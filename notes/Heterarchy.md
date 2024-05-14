@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[./MOCs Overview|./MOCs Overview]]"
-  - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
+  - "[[MOCs Overview|MOCs Overview]]"
+  - "[[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)"
 related: []
 created: 2020-06-01
 ---

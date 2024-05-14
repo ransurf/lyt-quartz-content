@@ -18,7 +18,7 @@ Perhaps continual improvement through this lens can be summed up with a phrase u
 
 > “Adapt and Overcome."
 
-It’s just about knowing what to overcome…and with skill development, that's called [[Atlas/./Vaults/Ideaverse/Atlas/./Ideas/Deliberate Practice|Atlas/./Vaults/Ideaverse/Atlas/./Ideas/Deliberate Practice]].
+It’s just about knowing what to overcome…and with skill development, that's called [[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice|Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice]].
 
 ---
 Catchy title example

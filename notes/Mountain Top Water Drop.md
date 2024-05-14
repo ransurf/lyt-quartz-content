@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Philosophy MOC (kit)|Philosophy MOC (kit)]]"
+  - "[[kit)](Philosophy MOC (kit|Philosophy MOC (kit)]].md)"
 related: []
 created: 2010-06-01
 tags:

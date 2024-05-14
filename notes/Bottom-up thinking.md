@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./Idea Emergence (defn)|Idea Emergence (defn)]]"
+  - "[[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)"
 created: 2020-06-01
 ---
 **Bottom-up thinking** is where your thinking is driven by encountering ideas and connecting/developing them organically. 
@@ -8,4 +8,4 @@ created: 2020-06-01
 PRO: Allows for emergent thinking.
 CON: Can feel a little too chaotic at times. 
 
-See: [[./Idea Emergence (defn)|Idea Emergence (defn)]]
+See: [[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)

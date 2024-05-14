@@ -4,7 +4,7 @@ up:
 related: []
 created: 2020-06-01
 ---
-The [[../home|Home]] note is like the [[1942 - Foundation Series (1942-93)|First Foundation]], while the [[./miniMaps/Library|Library]] note is like the Second Foundation. 
+The [[../home|Home]] note is like the [[1942 - Foundation Series (1942-93|First Foundation]]), while the [[./miniMaps/Library|Library]] note is like the Second Foundation. 
 
 - The first foundation is about ingenuity and free will. 
 - The second foundation is about structuring chaos acceptably. 

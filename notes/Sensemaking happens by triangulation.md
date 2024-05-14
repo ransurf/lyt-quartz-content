@@ -43,7 +43,7 @@ Triangulation says *I am the ultimate sensemaking mechanism, to both the known a
 ### Use two known points to imagine a third point.
 ![[feynman-triangulation-3.png|feynman-triangulation-3.png]]
 
-**The third power of triangulation is basically [[./Idea Emergence (defn)|Idea Emergence (defn)]]**. 
+**The third power of triangulation is basically [[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)**. 
 
 So how does one improve their triangulation skills? By getting reps connecting ideas. 
 

@@ -23,7 +23,7 @@ I leave the others alone for now.
 [[2013-03-10 Habit Planning|2013-03-10 Habit Planning]]
 [[2015-02-20 Habit Formation Research Article|2015-02-20 Habit Formation Research Article]]
 
-[[Atomic Habits (book)|Atomic Habits (book)]]
+[[book)](Atomic Habits (book|Atomic Habits (book)]])
 [[2019-01-25 Resiliency Routines|2019-01-25 Resiliency Routines]]
 
 ---

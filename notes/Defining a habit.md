@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Habits Map|./miniMaps/Habits Map]]"
+  - "[[Habits Map|Habits Map]]"
 related:
   - "[[./Feedback Loop|Feedback Loop]]"
   - "[[./Habits carry a ton of hidden inertia|Habits carry a ton of hidden inertia]]"

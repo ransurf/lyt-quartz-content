@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./On the process of note-making|./On the process of note-making]]"
+  - "[[On the process of note-making|On the process of note-making]]"
 related:
   - "[[./Note-takers|Note-takers]]"
   - "[[Note-making is good because...|Note-making is good because...]]"

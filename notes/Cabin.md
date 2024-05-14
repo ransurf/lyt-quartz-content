@@ -124,4 +124,4 @@ But when I am...
 
 •
 
-I might hike over to the [[./miniMaps/Life Map|./miniMaps/Life Map]].
+I might hike over to the [[./miniMaps/Life Map|Life Map]].

@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[./Evergreen notes|./Evergreen notes]]"
+  - "[[Evergreen notes|Evergreen notes]]"
 related:
-  - "[[./Note-making creates unexpected optionality|./Note-making creates unexpected optionality]]"
+  - "[[Note-making creates unexpected optionality|Note-making creates unexpected optionality]]"
 created: 2020-06-01
 ---
 Note-making forces clear, sharp thinking. Here are the basic steps: ^5e4e28c7

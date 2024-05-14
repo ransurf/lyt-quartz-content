@@ -1,3 +1,4 @@
+
 Your launchpad and home base. That's here. That's **home**.
 
 > [!Map]- # Atlas
@@ -14,7 +15,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > *What's on your mind?* 
 > 
 > - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
-> - To capture specific type of things, go to [[Logs (Example)|Logs]].
+> - To capture specific type of things, go to [[Logs (Example|Logs]]).
 >   
 > ![[robert-mccall-space-ship-launch-narrower.png|400]]
 > - To broadly reflect, go to [[./notes/miniMaps/Plan and Review|Plan and Review]].

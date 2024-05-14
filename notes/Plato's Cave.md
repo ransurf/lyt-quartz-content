@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Philosophy MOC (kit)|./miniMaps/Philosophy MOC (kit)]]"
+  - "[[kit)](Philosophy MOC (kit|Philosophy MOC (kit)]].md)"
 related: []
 created: 2020-06-01
 tags:

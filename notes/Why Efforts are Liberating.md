@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Efforts|./miniMaps/Efforts]]"
+  - "[[Efforts|Efforts]]"
 related:
   - "[[./The big differences between efforts and projects|The big differences between efforts and projects]]"
   - "[[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]"

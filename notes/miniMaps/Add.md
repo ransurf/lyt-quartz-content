@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 related:
-  - "[[./miniMaps/Relate|./miniMaps/Relate]]"
-  - "[[./miniMaps/Communicate|./miniMaps/Communicate]]"
+  - "[[Relate|Relate]]"
+  - "[[Communicate|Communicate]]"
 created: 2022-01-01
 obsidianUIMode: preview
 tags:
