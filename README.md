@@ -1,2 +1,0 @@
-# lyt-quartz-content
-notes
