@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[ideas/LYT Glossary|ideas/LYT Glossary]]"
+  - "[[notes/LYT Glossary|notes/LYT Glossary]]"
 related:
-  - "[[ideas/MOCs (defn)|ideas/MOCs (defn)]]"
+  - "[[./MOCs (defn)|MOCs (defn)]]"
 created: 2020-06-01
 ---
  *You requested the latest TPS reports?*
@@ -16,7 +16,7 @@ Data view notes are notes with specific sets of queries using the Dataview commu
 Armed with a few data views, you can make confident decisions because you know you are getting accurate information.
 
 ### What's the difference between MOCs and Data views
-While [[ideas/MOCs (defn)|ideas/MOCs (defn)]] are for active, generative thinking, the value of data views come from how they *passively* provide you with updated views of information. 
+While [[./MOCs (defn)|MOCs (defn)]] are for active, generative thinking, the value of data views come from how they *passively* provide you with updated views of information. 
 
 You can analyze or act on that information; but information is worthless without putting meaningful context around it. 
 
