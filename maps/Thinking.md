@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 down:
   - "[[../notes/miniMaps/Relate|Relate]]"
 related:
