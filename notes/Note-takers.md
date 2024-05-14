@@ -13,6 +13,6 @@ Contrast with [[./Note-makers|Note-makers]]
 ---
 
 ### More thoughts on note-takers
-![[ideas/What is a note#^0bffe4|ideas/What is a note]] ![[ideas/What is a note#^e19640|ideas/What is a note]] ![[ideas/What is a note#^dd5058|ideas/What is a note]]
+At their worst, our notes are overwhelming distraction-riddled collections of  thoughts we've never read that actually act as this static NOISE that distracts us and discourages us from spending time with more meaningful notes.- From [What is a note](./What is a note.md) This is the Collector's Fallacy and it's practiced by the information hoarders, so scared to lose some drop of water from the never-ending information stream, that they never have any time to actually drink from it.- From [What is a note](./What is a note.md) Those people sure have a lot of notes. A lot of "containers of thoughts". It's just too bad they've never enjoyed them.- From [What is a note](./What is a note.md)
 Related words: Passive thinkers, over-summarizers, over-collectors, Collector's Fallacy, Content Regurgitators
 
