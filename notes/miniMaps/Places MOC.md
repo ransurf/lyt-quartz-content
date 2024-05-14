@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Library|./miniMaps/Library]]"
+  - "[[Library|Library]]"
 related: []
 created: 2023-08-19
 tags:
