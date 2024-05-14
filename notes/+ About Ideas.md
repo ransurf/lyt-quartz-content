@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Meta PKM|./miniMaps/Meta PKM]]"
+  - "[[Meta PKM|Meta PKM]]"
 created: 2020-06-01
 ---
 The ideas folder is one of my favorite places because it has *umami*. Apparently umami is one of the five basic tastes. There are: Sweetness, Sourness, Saltiness, Bitterness—and that oddball Umami.
