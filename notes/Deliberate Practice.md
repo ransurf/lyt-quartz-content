@@ -9,7 +9,7 @@ created: 2011-06-01
 ## Sources
 ### Performance Psychology
 dates:: 2011
-people:: [Duncan R.D.Mascarenhas*](https://www.sciencedirect.com/science/article/pii/B9780443067341000171#!)[Nickolas C.Smith†](https://www.sciencedirect.com/science/article/pii/B9780443067341000171#!)
+people:: [[https://www.sciencedirect.com/science/article/pii/B9780443067341000171#!]][[https://www.sciencedirect.com/science/article/pii/B9780443067341000171#!]]
 URL:: [Link](https://www.sciencedirect.com/science/article/pii/B9780443067341000171)
 
 
@@ -21,7 +21,7 @@ From: [Performance Psychology, 2011](https://www.sciencedirect.com/science/artic
 
 ### Sports and Creativity
 dates:: 2011
-people:: D. Memmert, in [Encyclopedia of Creativity (Second Edition)](https://www.sciencedirect.com/referencework/9780123750389/encyclopedia-of-creativity), 2011
+people:: D. Memmert, in [[Second Edition)](Second Edition|Encyclopedia of Creativity (Second Edition)]]), 2011
 URL:: [Link](https://www.sciencedirect.com/science/article/pii/B9780123750389002077)
 
 #### Deliberate Practice
