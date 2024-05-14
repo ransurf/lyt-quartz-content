@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[ideas/miniMaps/Habits Map|ideas/miniMaps/Habits Map]]"
+  - "[[notes/miniMaps/Habits Map|notes/miniMaps/Habits Map]]"
 related:
-  - "[[ideas/Habits carry a ton of hidden inertia|ideas/Habits carry a ton of hidden inertia]]"
+  - "[[./Habits carry a ton of hidden inertia|Habits carry a ton of hidden inertia]]"
 created: 2020-06-01
 tags:
   - concept
@@ -11,4 +11,4 @@ tags:
 
 "A feedback loop occurs in nature when the product of a reaction leads to an increase in that reaction."
 
-Related: [[ideas/Habits carry a ton of hidden inertia|ideas/Habits carry a ton of hidden inertia]]
+Related: [[./Habits carry a ton of hidden inertia|Habits carry a ton of hidden inertia]]

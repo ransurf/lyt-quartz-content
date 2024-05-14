@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/miniMaps/Concepts Map|ideas/miniMaps/Concepts Map]]"
+  - "[[notes/miniMaps/Concepts Map|notes/miniMaps/Concepts Map]]"
 related: []
 created: 2020-06-01
 tags:

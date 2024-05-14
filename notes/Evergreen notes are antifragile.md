@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[ideas/Evergreen notes|ideas/Evergreen notes]]"
+  - "[[notes/Evergreen notes|notes/Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---
-The most profound and revolutionary aspect of evergreen notes is that they exhibit [[ideas/Antifragility|ideas/Antifragility]]. The effects of this are hard to overstate.
+The most profound and revolutionary aspect of evergreen notes is that they exhibit [[./Antifragility|Antifragility]]. The effects of this are hard to overstate.
 
 In essence, that means they grow more valuable as they encounter more stressors. I.e. As you encounter related ideas, you link them to your existing evergreen note—even if they directly contradict your existing note. 
 

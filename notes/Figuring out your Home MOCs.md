@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/Set Up Your Home Note|ideas/Set Up Your Home Note]]"
+  - "[[notes/Set Up Your Home Note|notes/Set Up Your Home Note]]"
 related: []
 created: 2020-06-01
 ---

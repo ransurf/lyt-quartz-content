@@ -14,7 +14,7 @@ Learn about the 5-week workshop [here](https://www.linkingyourthinking.com/waitl
 ### Oh the places you'll go...
 But first:
 
-- Do we agree on the [[ideas/Guiding Values of PKM|ideas/Guiding Values of PKM]]?
+- Do we agree on the [[./Guiding Values of PKM|Guiding Values of PKM]]?
 
 If we mostly agree, then:
 

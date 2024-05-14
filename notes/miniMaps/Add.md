@@ -2,7 +2,7 @@
 up:
   - "[[Home|Home]]"
 related:
-  - "[[ideas/miniMaps/Relate|ideas/miniMaps/Relate]]"
+  - "[[notes/miniMaps/Relate|notes/miniMaps/Relate]]"
   - "[[Notes/miniMaps/Communicate|Notes/miniMaps/Communicate]]"
 created: 2022-01-01
 obsidianUIMode: preview

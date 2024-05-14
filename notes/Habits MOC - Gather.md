@@ -19,7 +19,7 @@ For our walkthrough, I decided to compile old notes I collected on the topic of 
 I have only "gathered" the links. They are not organized yet. That happens in the next phase:
 
 ---
-Next: [[ideas/Habits MOC - Collide|ideas/Habits MOC - Collide]]
+Next: [[./Habits MOC - Collide|Habits MOC - Collide]]
 
 
 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/MOCs Overview|ideas/MOCs Overview]]"
+  - "[[notes/MOCs Overview|notes/MOCs Overview]]"
 related: []
 created: 2020-06-01
 tags:

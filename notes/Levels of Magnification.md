@@ -2,7 +2,7 @@
 up:
   - "[[Thinking|Thinking]]"
 related:
-  - "[[ideas/Refraction Thinking|ideas/Refraction Thinking]]"
+  - "[[./Refraction Thinking|Refraction Thinking]]"
 created: 2018-06-18
 tags:
   - concept
@@ -25,4 +25,4 @@ I have found it useful to use three different levels of magnification when looki
 - **Practical** (Meso) — No fancy language, just the actual how-to of something
 - **Technical** (Micro) — The nuts and bolts, diving deep into the specifics of a thing
 
-See also: [[ideas/Refraction Thinking|ideas/Refraction Thinking]]
+See also: [[./Refraction Thinking|Refraction Thinking]]

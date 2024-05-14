@@ -1,7 +1,7 @@
 ---
 up: []
 related:
-  - "[[ideas/MOCs Overview|ideas/MOCs Overview]]"
+  - "[[notes/MOCs Overview|notes/MOCs Overview]]"
 created: 2020-06-01
 ---
 Welcome to the walkthrough on MOCs. Maps of Content are one of the ultimate thinking tools. But how do you unlock this new superpower?
@@ -16,8 +16,8 @@ MOCs have three basic, overlapping phases. Here is the outline you can expect to
 
 - [[The 3 Phases of MOCs|The 3 Phases of MOCs]]
 	- [[./Habits MOC - Gather|Habits MOC - Gather]]
-	- [[ideas/Habits MOC - Collide|ideas/Habits MOC - Collide]]
-	- [[ideas/miniMaps/Habits Map|ideas/miniMaps/Habits Map]] - Navigate
+	- [[./Habits MOC - Collide|Habits MOC - Collide]]
+	- [[./miniMaps/Habits Map|Habits Map]] - Navigate
 - [[./The 3 Phases of MOCs, a coda|The 3 Phases of MOCs, a coda]]
 
 ---

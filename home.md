@@ -4,11 +4,11 @@ Your launchpad and home base. That's here. That's **home**.
 > [!Map]- # Atlas
 > > *Where would you like to go?*
 > 
-> - To do inspired work, go to [[./notes/miniMaps/Add|Add]], [[ideas/miniMaps/Relate|ideas/miniMaps/Relate]], and [[./notes/miniMaps/Communicate|Communicate]].
+> - To do inspired work, go to [[./notes/miniMaps/Add|Add]], [[./notes/miniMaps/Relate|Relate]], and [[./notes/miniMaps/Communicate|Communicate]].
 >   
 > ![[mckie-ship-and-sea-mid-narrow-.jpg|400]]
-> - To launch into your knowledge, try out: [[ideas/miniMaps/Library|ideas/miniMaps/Library]] | [[ideas/miniMaps/People Map|ideas/miniMaps/People Map]] | [[ideas/miniMaps/Sources Map|ideas/miniMaps/Sources Map]].
-> - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[ideas/miniMaps/Concepts Map|ideas/miniMaps/Concepts Map]]. 
+> - To launch into your knowledge, try out: [[./notes/miniMaps/Library|Library]] | [[./notes/miniMaps/People Map|People Map]] | [[./notes/miniMaps/Sources Map|Sources Map]].
+> - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/miniMaps/Concepts Map|Concepts Map]]. 
 > - For grounding, [[./notes/miniMaps/Life Map|Life Map]]. For training, [[Ideaverse Map|Ideaverse Map]]. For rules, [[./notes/miniMaps/Meta PKM|Meta PKM]].
 
 > [!Calendar]- # Calendar

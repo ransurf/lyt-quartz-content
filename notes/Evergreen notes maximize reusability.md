@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/Evergreen notes|ideas/Evergreen notes]]"
+  - "[[notes/Evergreen notes|notes/Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---

@@ -2,8 +2,8 @@
 up:
   - "[[Notes/miniMaps/Efforts|Notes/miniMaps/Efforts]]"
 related:
-  - "[[ideas/The big differences between efforts and projects|ideas/The big differences between efforts and projects]]"
-  - "[[ideas/How ideas and efforts play nicely together|ideas/How ideas and efforts play nicely together]]"
+  - "[[./The big differences between efforts and projects|The big differences between efforts and projects]]"
+  - "[[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]"
 created: 2021-01-01
 ---
 Thinking of your efforts as "efforts"—and not projects—is liberating and empowering because:
@@ -17,6 +17,6 @@ Thinking of your efforts as "efforts"—and not projects—is liberating and emp
 
 Learn more about efforts:
 
-- [[ideas/The big differences between efforts and projects|ideas/The big differences between efforts and projects]]
-- [[ideas/How ideas and efforts play nicely together|ideas/How ideas and efforts play nicely together]]
-- [[ideas/A deeper dive into how ACE works|ideas/A deeper dive into how ACE works]]
+- [[./The big differences between efforts and projects|The big differences between efforts and projects]]
+- [[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]
+- [[./A deeper dive into how ACE works|A deeper dive into how ACE works]]

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/MOCs Overview|ideas/MOCs Overview]]"
+  - "[[notes/MOCs Overview|notes/MOCs Overview]]"
   - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
 related: []
 created: 2020-06-01
@@ -9,4 +9,4 @@ A heterarchy is an unranked (non-hierarchical) system of organization, or where 
 
 In a digital library, MOCs are the main example of a heterarchy.
 
-Go to: [[ideas/LYT Glossary|ideas/LYT Glossary]]
+Go to: [[./LYT Glossary|LYT Glossary]]

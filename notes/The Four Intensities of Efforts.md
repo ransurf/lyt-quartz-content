@@ -3,7 +3,7 @@ up:
   - "[[Notes/miniMaps/Efforts|Notes/miniMaps/Efforts]]"
 related:
   - "[[Why Efforts are Liberating|Why Efforts are Liberating]]"
-  - "[[ideas/How ideas and efforts play nicely together|ideas/How ideas and efforts play nicely together]]"
+  - "[[notes/How ideas and efforts play nicely together|notes/How ideas and efforts play nicely together]]"
 created: 2022-09-01
 ---
 There are four useful intensities for your efforts. 
@@ -31,4 +31,4 @@ For as much complexity as there can be in PKM, managing efforts ***by intensity*
 
 ---
 
-You can see more about how these four intensities can become four folders: [[ideas/The ACE Folder Framework Flexes For You|ideas/The ACE Folder Framework Flexes For You]].
+You can see more about how these four intensities can become four folders: [[./The ACE Folder Framework Flexes For You|The ACE Folder Framework Flexes For You]].
