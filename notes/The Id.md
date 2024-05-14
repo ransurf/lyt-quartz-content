@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/miniMaps/Concepts Map|ideas/miniMaps/Concepts Map]]"
+  - "[[notes/miniMaps/Concepts Map|notes/miniMaps/Concepts Map]]"
 related: []
 created: 2020-06-01
 tags:
@@ -13,4 +13,4 @@ tags:
 - The disorganized part of the personality structure that contains a human's basic, instinctual drives. 
 
 ## Related
-[[ideas/No-Face|ideas/No-Face]] - essentially embodies the Id
+[[./No-Face|No-Face]] - essentially embodies the Id
