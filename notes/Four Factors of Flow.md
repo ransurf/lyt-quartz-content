@@ -11,10 +11,10 @@ These are the four factors that govern flow. If you're in Flow, it's because the
 
 ### Main Factors Governing the Strength of Each
 
-1. [[./Direction (re Flow)|Direction (re Flow)]] — *Level of Clarity; Amount of Directions* — Aside from "Nature & Nurture" (which is a philosophical rabbit hole), it's the Level of Clarity and Amount of Directions (i.e. the number of goals one has) that most govern the strength of Direction.
-2. [[./Attention (re Flow)|Attention (re Flow)]] — *Distractions in both Frequency and Intensity* — This is most governed by Distractions: the Intensity of Distractions and the Frequency of Distractions.
-3. [[./Enthusiasm (re Flow)|Enthusiasm (re Flow)]] — *Level of Desire* — This also ties into "Nature & Nurture" a bit. It might sound circular, but one's Level of Desire dictates one's Enthusiasm. It's the most intangible. What excites somebody? What inspires them, motivates them, fills them with passion? I'm not sure how to best affect one's Enthusiasm. It's the "Why" in the world of "Goal Setting." It's very personal to each person, but some commonalities are usually: to be stimulated and engaged, to feel important, to feel the work is important, to improve one's financial situation.
-4. [[./Energy (re Flow)|Energy (re Flow)]] — *Quality of Sleep, Diet, & Exercise; Quality of Relationships & Community; Quality of Leisure Time* — also Hydration, Sunlight, Nature, Hobbies, etc. 
+1. [[re Flow)](Direction (re Flow|Direction (re Flow)]].md) — *Level of Clarity; Amount of Directions* — Aside from "Nature & Nurture" (which is a philosophical rabbit hole), it's the Level of Clarity and Amount of Directions (i.e. the number of goals one has) that most govern the strength of Direction.
+2. [[re Flow)](Attention (re Flow|Attention (re Flow)]].md) — *Distractions in both Frequency and Intensity* — This is most governed by Distractions: the Intensity of Distractions and the Frequency of Distractions.
+3. [[re Flow)](Enthusiasm (re Flow|Enthusiasm (re Flow)]].md) — *Level of Desire* — This also ties into "Nature & Nurture" a bit. It might sound circular, but one's Level of Desire dictates one's Enthusiasm. It's the most intangible. What excites somebody? What inspires them, motivates them, fills them with passion? I'm not sure how to best affect one's Enthusiasm. It's the "Why" in the world of "Goal Setting." It's very personal to each person, but some commonalities are usually: to be stimulated and engaged, to feel important, to feel the work is important, to improve one's financial situation.
+4. [[re Flow)](Energy (re Flow|Energy (re Flow)]].md) — *Quality of Sleep, Diet, & Exercise; Quality of Relationships & Community; Quality of Leisure Time* — also Hydration, Sunlight, Nature, Hobbies, etc. 
 
 ### How They Impact Each Other
 
