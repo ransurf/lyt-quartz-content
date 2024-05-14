@@ -9,7 +9,7 @@ tags:
 ---
  *Thinking about ONE thing, through the lens of ANOTHER thing.*
 
-> [!NOTE] Informally, I like saying [[Lens-bending|Lens-bending]] instead.
+> [[Lens-bending|!NOTE]] instead.
 
 Have you been to the eye doctor? Did they put you behind a device with hundreds of lenses to test your vision? 
 
@@ -39,4 +39,4 @@ See [[./miniMaps/Concepts Map|Concepts Map]] for a bunch of excellent lenses to 
 - The 7 Dimensions of Wellness
 - The 4 Stoic Virtues
 - The 8-Fold Path
-- [[./miniMaps/My Virtues (starter)|My Virtues]]
+- [[My Virtues (starter|My Virtues]].md)
