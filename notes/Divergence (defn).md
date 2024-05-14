@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
+  - "[[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md)"
 related:
-  - "[[Complexity (defn)|Complexity (defn)]]"
-  - "[[./Convergence (defn)|Convergence (defn)]]"
+  - "[[defn)](Complexity (defn|Complexity (defn)]].md)"
+  - "[[defn)](Convergence (defn|Convergence (defn)]].md)"
 created: 2020-06-01
 ---
  **Divergence** is basically when things become unique.
 
-Divergence relates directly [[./Convergence (defn)|Convergence (defn)]].
+Divergence relates directly [[defn)](Convergence (defn|Convergence (defn)]].md).
