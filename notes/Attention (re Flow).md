@@ -10,7 +10,7 @@ Attention is what the mind is focused on—and what it has been focused on over 
 Guard what enters your mind, and what stays in the mind. Reduce distractions. Reduce attentional switching.
 
 ### Subsets of Attention
-- **Focus** — The ability to maintain focus is of crucial importance in any aspect of modern living. Without focus, life drifts from stimuli to stimuli, with very little consistent [[./Direction (re Flow)|Direction (re Flow)]].
+- **Focus** — The ability to maintain focus is of crucial importance in any aspect of modern living. Without focus, life drifts from stimuli to stimuli, with very little consistent [[re Flow)](Direction (re Flow|Direction (re Flow)]].md).
 - **Residual Attention** — Your *attention* isn't just about what you are thinking about right now; it's more so composed of everything that's entered your mind over past 72 hours.
     - Similar Keywords: Attentional Residue, Echo, Resonating, Ripples, Shadows, Reflections, Glimmers, Whispers, Deja Vu, Attention Robbers, Attentional Switching, Distraction Radiation, Distraction Amnesia, Continuity of Thought
 
@@ -22,9 +22,9 @@ Guard what enters your mind, and what stays in the mind. Reduce distractions. Re
 ### Causes of Poor Attention
 - Distractions — Distractions come in many forms and factors. Below is a list of major sources of distraction to safeguard against:
 - [[Poor Diet|Poor Diet]] (not available in Ideaverse for Obsidian) — Sugar makes people act impulsively; they become more susceptible to distractions. Grains can cause brain fog to lowers mood and Enthusiasm. Both dramatically raise blood sugar levels causing the secretion of Insulin. The resulting fall of blood glucose levels causes hunger, irritability, and energy crashes.
-- Average Diet — Even an average diet can still have several micro-nutrient deficiencies that can be the cause of headaches, lower [[./Energy (re Flow)|Energy (re Flow)]] levels, mood swings, a lack of enthusiasm.
-- Lack of [[./Enthusiasm (re Flow)|Enthusiasm (re Flow)]]
-- Lack of [[./Direction (re Flow)|Direction (re Flow)]]
+- Average Diet — Even an average diet can still have several micro-nutrient deficiencies that can be the cause of headaches, lower [[re Flow)](Energy (re Flow|Energy (re Flow)]].md) levels, mood swings, a lack of enthusiasm.
+- Lack of [[re Flow)](Enthusiasm (re Flow|Enthusiasm (re Flow)]].md)
+- Lack of [[re Flow)](Direction (re Flow|Direction (re Flow)]].md)
 
 ### Solutions to Poor Attention
 - Reducing Distractions in Intensity and Frequency
