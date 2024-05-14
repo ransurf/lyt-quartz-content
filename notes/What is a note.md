@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[📹 Videos (OE) (Example)|📹 Videos (OE) (Example)]]"
+  - "[[OE) (Example)](📹 Videos (OE|📹 Videos (OE) (Example)]]%20(Example))"
 related: []
 created: 2020-06-01
 tags:
