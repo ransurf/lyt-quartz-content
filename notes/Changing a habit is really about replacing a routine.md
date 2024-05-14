@@ -24,4 +24,4 @@ What Duhigg—and over 500 research articles who referenced Baumeister's work—
 
 **Following habits is not only a key part of our lives but also a key part of organizations and companies. All habits comprise a cue-routine-reward loop, and the easiest way to change this is to substitute the routine for something else while keeping the cue and reward the same. Achieving lasting change in life is difficult, but it can be done by focusing on important keystone habits such as willpower.**
 
-[^1]: Too simple perhaps, because in making the process super sticky with only 3 steps, he left out an important fourth step between Cue and Routine: Craving. James Clear picked up on this too and made it explicit in [[./How Atomic Habits fit into the conversation on habits|How Atomic Habits fit into the conversation on habits]]
+[[./How Atomic Habits fit into the conversation on habits|^1]]
