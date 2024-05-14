@@ -26,7 +26,7 @@ This kit shows you how to get there, but DO NOT start structuring your "ultimate
 
 > Let the links do the work.
 
-So [[./Trust the process (kit)|Trust the process (kit)]] and enjoy the incremental journey of structure emerging organically. As you run into [[./Mental Squeeze Point|Mental Squeeze Points]] keep these principles in mind. Keep them handy. But try to stop yourself from over-designing everything today. It won't be helpful. If that's not enough of a warning, please review [[./Gall's Law|Gall's Law]].
+So [[kit)](Trust the process (kit|Trust the process (kit)]].md) and enjoy the incremental journey of structure emerging organically. As you run into [[./Mental Squeeze Point|Mental Squeeze Points]] keep these principles in mind. Keep them handy. But try to stop yourself from over-designing everything today. It won't be helpful. If that's not enough of a warning, please review [[./Gall's Law|Gall's Law]].
 
 ---
 If you're still enthusiastic about the fluid frameworks in the LYT method, then [[./Set Up Your Home Note|Set Up Your Home Note]].
