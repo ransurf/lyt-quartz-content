@@ -36,4 +36,4 @@ Overcoming Plateaus
 ---
 
 [^1]: [Promoting habit formation, 2011, Lally et al](https://www.researchgate.net/publication/230576970_Promoting_habit_formation)
-[^2]: This also relates, in general, to the [[Pareto Principle|Pareto Principle]], although I'd say for the a-curve it's more like the final 10% of the task takes as long as the prior 90%. Remember both points when "fighting perfectionism".
+[[Pareto Principle|^2]], although I'd say for the a-curve it's more like the final 10% of the task takes as long as the prior 90%. Remember both points when "fighting perfectionism".
