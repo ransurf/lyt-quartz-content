@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/miniMaps/Habits Map|ideas/miniMaps/Habits Map]]"
+  - "[[notes/miniMaps/Habits Map|notes/miniMaps/Habits Map]]"
 related: []
 created: 2020-06-01
 tags:
@@ -10,7 +10,7 @@ tags:
 
 [[Like begets like|Like begets like]] is the natural process of Evolution's [[./Selfish Gene|Selfish Gene]]. 
 
-Because [[ideas/Natural Selection|ideas/Natural Selection]] demands that organisms become more efficient to increase its chances of survival (see [[ideas/Survival of the Fittest|ideas/Survival of the Fittest]]). 
+Because [[./Natural Selection|Natural Selection]] demands that organisms become more efficient to increase its chances of survival (see [[./Survival of the Fittest|Survival of the Fittest]]). 
 
 Said another way, evolution's [[./Selfish Gene|Selfish Gene]] has a Prime Directive: survive. It this way, Nature is neutral. It grows what you feed it. You are what you eat. 
 
