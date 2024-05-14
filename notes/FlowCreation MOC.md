@@ -8,19 +8,19 @@ tags:
 ---
  *Flowcreation: the choose your own adventure field guide*
 
-- [[ideas/Flow Map|ideas/Flow Map]]
-	- [[ideas/Conditions of Flow|ideas/Conditions of Flow]]
-	- [[ideas/FlowCreation Theory|ideas/FlowCreation Theory]]
+- [[./Flow Map|Flow Map]]
+	- [[./Conditions of Flow|Conditions of Flow]]
+	- [[./FlowCreation Theory|FlowCreation Theory]]
 		- [[./Balancing Challenge and Skill|Balancing Challenge and Skill]]
-		- [[ideas/Meta-Skills for Flowcreation|ideas/Meta-Skills for Flowcreation]]
+		- [[./Meta-Skills for Flowcreation|Meta-Skills for Flowcreation]]
 	- [[./Practical Tactics for Finding Flow|Practical Tactics for Finding Flow]]
 		- [[./Flow Stoppers|Flow Stoppers]]
-		- [[ideas/Solutions to Flow Stoppers|ideas/Solutions to Flow Stoppers]]	
+		- [[./Solutions to Flow Stoppers|Solutions to Flow Stoppers]]	
 
 ---
-- [[ideas/Four Factors of Flow|ideas/Four Factors of Flow]]
-	- [[ideas/Attention (re Flow)|ideas/Attention (re Flow)]]
-	- [[ideas/Direction (re Flow)|ideas/Direction (re Flow)]]
-	- [[ideas/Energy (re Flow)|ideas/Energy (re Flow)]]
+- [[./Four Factors of Flow|Four Factors of Flow]]
+	- [[./Attention (re Flow)|Attention (re Flow)]]
+	- [[./Direction (re Flow)|Direction (re Flow)]]
+	- [[./Energy (re Flow)|Energy (re Flow)]]
 	- [[./Enthusiasm (re Flow)|Enthusiasm (re Flow)]]
 
