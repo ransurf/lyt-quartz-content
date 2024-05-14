@@ -13,7 +13,7 @@ For our walkthrough, I decided to compile old notes I collected on the topic of 
 [[2013-03-10 Habit Planning|2013-03-10 Habit Planning]]
 [[2015-02-20 Habit Formation Research Article|2015-02-20 Habit Formation Research Article]]
 [[2015-02-20 Habit Concepts and Theory|2015-02-20 Habit Concepts and Theory]]
-[[Atomic Habits (book)|Atomic Habits (book)]]
+[[book)](Atomic Habits (book|Atomic Habits (book)]])
 [[2019-01-25 Resiliency Routines|2019-01-25 Resiliency Routines]]
 
 I have only "gathered" the links. They are not organized yet. That happens in the next phase:
