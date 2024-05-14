@@ -1,4 +1,3 @@
-
 Your launchpad and home base. That's here. That's **home**.
 
 > [!Map]- # Atlas
