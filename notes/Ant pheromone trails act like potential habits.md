@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Habits Map|./miniMaps/Habits Map]]"
+  - "[[Habits Map|Habits Map]]"
 related:
   - "[[./Cobwebs into Cables|Cobwebs into Cables]]"
 created: 2021-01-01
