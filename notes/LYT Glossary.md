@@ -11,10 +11,10 @@ created: 2020-06-01
 
 ### LYT Terms
 - **[[./Mental Squeeze Point|Mental Squeeze Point]]** - The point in any endeavor where the amount of information begins to overwhelm you. Either you overcome the squeeze point, or your project gets stuck.
-- **[[./MOCs Overview|MOC (Map of Content)]]**, pronounced (EM-OH-SEE) - A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. Informally, called "maps".
+- **[[Map of Content)](MOCs Overview.md|MOC (Map of Content)]]**, pronounced (EM-OH-SEE) - A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. Informally, called "maps".
 - **[[../home|Home note]]** - Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
 	- MOCs help you gather, develop, and navigate your ideas.
-- **[[./Idea Emergence (defn)|Idea Emergence]]** - The process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.
+- **[[Idea Emergence (defn|Idea Emergence]].md)** - The process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.
 - **Top-down Thinking** - Starting with structure and a clear destination. e.g. A folder-based framework.
 	- PRO: Keeps you on track. CON: Stifles emergent thinking.
 - **Bottom-up Thinking** - Starting with a various ideas and connecting them organically. 
@@ -29,7 +29,7 @@ created: 2020-06-01
 	- Most often, when someone says "my ideaverse" they are talking more specifically about their collection of digitally linked notes.
 
 ### A Fuller PKM Glossary (in the works)
-- [[./Data view notes (defn)|Data view notes (defn)]]
+- [[defn)](Data view notes (defn|Data view notes (defn)]].md)
 - [[./Note-makers|Note-makers]]
 - [[./Note-takers|Note-takers]]
 - **PKM** (Personal Knowledge Management) - The process of individuals making, using, organizing, connecting, combining, collaborating, and creating with their personal notes.
