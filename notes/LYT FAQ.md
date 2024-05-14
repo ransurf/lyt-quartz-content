@@ -50,7 +50,7 @@ Ideas are solutions to problems. They are original creations or thoughts. They a
 
 ---
 *Q: Okay then...What is LYT?*
-A: LYT stands for "Linking Your Thinking". It is a proven framework for knowledge management based on using links to enhance your thinking. It articulates the theory of [[./Idea Emergence (defn)|Idea Emergence (defn)]], and uses higher-order notes called "Maps of Content" (MOCs). See [[./LYT Frameworks|LYT Frameworks]].
+A: LYT stands for "Linking Your Thinking". It is a proven framework for knowledge management based on using links to enhance your thinking. It articulates the theory of [[defn)](Idea Emergence (defn|Idea Emergence (defn)]].md), and uses higher-order notes called "Maps of Content" (MOCs). See [[./LYT Frameworks|LYT Frameworks]].
 
 Use LYT to create your ideaverse. 
 
