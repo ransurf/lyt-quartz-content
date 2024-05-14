@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 related: []
 created: 2020-01-01
 tags:
