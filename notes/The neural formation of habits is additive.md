@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./miniMaps/Habits Map|./miniMaps/Habits Map]]"
+  - "[[Habits Map|Habits Map]]"
 related: []
 created: 2015-02-20
 evolved: 2020-05-28
