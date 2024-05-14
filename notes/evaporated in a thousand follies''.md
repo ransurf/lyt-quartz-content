@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ideas/Direction (re Flow)|ideas/Direction (re Flow)]]"
+  - "[[notes/Direction (re Flow)|notes/Direction (re Flow)]]"
 related: []
 created: 2020-06-01
 tags:
@@ -27,4 +27,4 @@ light, spark, explode, electricity, lightning, illumination
 
 I mash up this concept from [[Alexandre Dumas|Alexandre Dumas]] with the Large Hadron Collider in Switzerland in my LYT workshop lesson focused on [[./Thought Collisions|Thought Collisions]].
 
-Over at [[ideas/MOCs are Dialectics|ideas/MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.
+Over at [[./MOCs are Dialectics|MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.
