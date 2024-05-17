@@ -1,4 +1,4 @@
 ---
 title: Contact
 ---
-Contact
+Contact us
