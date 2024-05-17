@@ -12,8 +12,6 @@ Just like the primordial goop that collided together billions of years ago to sp
 ## Daily reminders of powerful concepts
 Why not string out these ideas into paragraphs? What a way to unearth hidden connections!
 
-
-
 Starting some days, I'll consider how to apply three *strategic* mental models: [[../OODA Loop|OODA Loop]], [[../Levels of Magnification|Levels of Magnification]], and [[../Refraction Thinking|Refraction Thinking]]. 
 
 For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[../Reps|Reps]], creating the conditions for [[../Flow|Flow]], which involves environmental  [[../Forcing Function|Forcing Functions]], and considering when I can multitask [[../Shadow Clone|Shadow Clone]]. 
@@ -39,31 +37,27 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 > [!Venetian]+ Unrequited notes
 > These notes point directly to this note. But this note doesn't point back (yet). This is the strongest contextual query.
 > 
->  - [[../Wu wei|Wu wei]]
-> - [[../Strong opinions, weakly held|Strong opinions, weakly held]]
-> - [[../Signal to Noise Ratio|Signal to Noise Ratio]]
-> - [[../Gall's Law|Gall's Law]]
+> ```dataview
+> LIST
 > 
+> FROM [[Concepts Map]]
+> and !outgoing([[Concepts Map]])
+> and -#map
+> 
+> SORT file.mtime desc
+> ```
 
 > [!Venetian]- Unmentioned notes in common
 > These notes share the tag `#concept` and are not mentioned above.
 > 
->  - [[../Cobwebs into Cables|Cobwebs into Cables]]
-> - [[../Dimensions of Reality|Dimensions of Reality]]
-> - [[../Feedback Loop|Feedback Loop]]
-> - [[../Framing|Framing]]
-> - [[../Gall's Law|Gall's Law]]
-> - [[../Like begets like|Like begets like]]
-> - [[../Method of Loci|Method of Loci]]
-> - [[../Newton's Laws of Motion|Newton's Laws of Motion]]
-> - [[../Priming|Priming]]
-> - [[../Selfish Gene|Selfish Gene]]
-> - [[../Signal to Noise Ratio|Signal to Noise Ratio]]
-> - [[../Strong opinions, weakly held|Strong opinions, weakly held]]
-> - [[../Use it or Lose it|Use it or Lose it]]
-> - [[../Wu wei|Wu wei]]
-> - [[../You are what you eat|You are what you eat]]
+> ```dataview
+> LIST
 > 
+> FROM #concept
+> and !outgoing([[Concepts Map]])
+> 
+> SORT file.name asc
+> ```
 
 ---
 
