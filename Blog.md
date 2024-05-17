@@ -10,5 +10,7 @@ Thinking:
 Writing:
   - "[[5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]"
 Maps of Content: "[[What can we learn from nerdy discussions on MOCs]]"
+type: 
+cta: 
 ---
 Browse writings by map.
