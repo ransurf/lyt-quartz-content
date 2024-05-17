@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../home|Home]]"
+  - "[[../../LYT Ideaverse|Home]]"
 related: []
 created: 2016-01-01
 tags:
@@ -11,6 +11,8 @@ Just like the primordial goop that collided together billions of years ago to sp
 
 ## Daily reminders of powerful concepts
 Why not string out these ideas into paragraphs? What a way to unearth hidden connections!
+
+
 
 Starting some days, I'll consider how to apply three *strategic* mental models: [[../OODA Loop|OODA Loop]], [[../Levels of Magnification|Levels of Magnification]], and [[../Refraction Thinking|Refraction Thinking]]. 
 
@@ -70,4 +72,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[../../home|Home]]
+Back to: [[../../LYT Ideaverse|Home]] !
