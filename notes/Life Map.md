@@ -31,6 +31,6 @@ I'm amazed at how many people don't zoom out and consider how to live a good lif
 
 %%
 
-Off in the distance is my [[../Cabin|Cabin]]. 
+Off in the distance is my [[./Cabin|Cabin]]. 
 
 %%

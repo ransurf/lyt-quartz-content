@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../home|Home]]"
+  - "[[../LYT Ideaverse|Home]]"
 related: []
 created: 2020-01-01
 tags:
@@ -31,10 +31,10 @@ Navigate your library of maps with a classification system made specifically for
 > The [[./Meta PKM|Meta PKM]] shows the best practices of knowledge management. I use the [[Ideaverse Map|Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs|Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
 > 
 > - [[./Relate|Relate]] | [[Logs (Example)|Logs (Example)]] |  [[I want to...|I want to...]]
-> - [[Cartographer's Corner 🗺|Cartographer's Corner 🗺]] | [[../Commonplace Book|Commonplace Book]] |  [[Knowledge and memory MOC|Knowledge and memory MOC]]
+> - [[Cartographer's Corner 🗺|Cartographer's Corner 🗺]] | [[./Commonplace Book|Commonplace Book]] |  [[Knowledge and memory MOC|Knowledge and memory MOC]]
 
 > [!Milestone]+ ### 100 - Personal Management
-> The [[Thinking Map|Thinking Map]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[../Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[./My Virtues (starter)|My Virtues]] and more.
+> The [[Thinking Map|Thinking Map]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[./Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[./My Virtues (starter)|My Virtues]] and more.
 > 
 > - [[Posture MOC|Posture MOC]] | [[Hormesis MOC|Hormesis MOC]] | [[Breathing Exercises MOC|Breathing Exercises MOC]] | Flowcreation MOC
 > - People MOC | Family MOC | [[Prominent People (kit)|Prominent People (kit)]]
@@ -91,4 +91,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to: [[../../home|Home]]
+Up to: [[../LYT Ideaverse|Home]]

@@ -17,7 +17,7 @@ tags:
 - [[Collective Intelligence MOC|Collective Intelligence MOC]]
 - [[Design MOC|Design MOC]]
 - [[1952 - The Syntopicon|1952 - The Syntopicon]]
-- [[../Dimensions of Reality|Dimensions of Reality]]
+- [[./Dimensions of Reality|Dimensions of Reality]]
 
 
 ## Traditional Philosophy

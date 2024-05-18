@@ -1,5 +1,7 @@
 ---
 title: LYT Ideaverse
+aliases:
+  - Home
 ---
 
 Your launchpad and home base. That's here. That's **home**.
@@ -7,12 +9,12 @@ Your launchpad and home base. That's here. That's **home**.
 > [!Map]- # Atlas
 > > *Where would you like to go?*
 > 
-> - To do inspired work, go to [[./notes/miniMaps/Add|Add]], [[./notes/miniMaps/Relate|Relate]], and [[./notes/miniMaps/Communicate|Communicate]].
+> - To do inspired work, go to [[./notes/Add|Add]], [[./notes/Relate|Relate]], and [[./notes/Communicate|Communicate]].
 >   
 > ![[mckie-ship-and-sea-mid-narrow-.jpg|400]]
-> - To launch into your knowledge, try out: [[./notes/miniMaps/Library|Library]] | [[./notes/miniMaps/People Map|People Map]] | [[./notes/miniMaps/Sources Map|Sources Map]].
-> - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/miniMaps/Concepts Map|Concepts Map]]. 
-> - For grounding, [[./notes/miniMaps/Life Map|Life Map]]. For training, [[Ideaverse Map|Ideaverse Map]]. For rules, [[./notes/miniMaps/Meta PKM|Meta PKM]].
+> - To launch into your knowledge, try out: [[./notes/Library|Library]] | [[./notes/People Map|People Map]] | [[./notes/Sources Map|Sources Map]].
+> - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/Concepts Map|Concepts Map]]. 
+> - For grounding, [[./notes/Life Map|Life Map]]. For training, [[Ideaverse Map|Ideaverse Map]]. For rules, [[./notes/Meta PKM|Meta PKM]].
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 
@@ -21,13 +23,13 @@ Your launchpad and home base. That's here. That's **home**.
 > - To capture specific type of things, go to [[Logs (Example|Logs]]).
 >   
 > ![[robert-mccall-space-ship-launch-narrower.png|400]]
-> - To broadly reflect, go to [[./notes/miniMaps/Plan and Review|Plan and Review]].
-> - To learn more about time travel, go to [[./notes/miniMaps/Calendar|Calendar]].
+> - To broadly reflect, go to [[./notes/Plan and Review|Plan and Review]].
+> - To learn more about time travel, go to [[./notes/Calendar|Calendar]].
 
 > [!Training]- # Efforts
 > > *What can you work on?* 
 > 
-> For a concentrated view, go to [[./notes/miniMaps/Efforts|Efforts]].
+> For a concentrated view, go to [[./notes/Efforts|Efforts]].
 > 
 > Use this to keep priorities in order and the quickly adjust your bandwidth as needed. 
 > 

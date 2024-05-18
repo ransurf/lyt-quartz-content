@@ -17,7 +17,7 @@ This is enough to get you started. Over time, you might to customize your views.
 > [!Script]- ###### Newsletters
 >  |                                                                                         | Published        |
 > | --------------------------------------------------------------------------------------- | ---------------- |
-> | [[../Sensemaking happens by triangulation\|Sensemaking happens by triangulation]] | January 01, 2022 |
+> | [[./Sensemaking happens by triangulation\|Sensemaking happens by triangulation]] | January 01, 2022 |
 > 
 
 # Videos
@@ -33,9 +33,9 @@ This is enough to get you started. Over time, you might to customize your views.
 > [!Video]- ###### Published Youtube Videos
 >  |                                                                                         | Published        |
 > | --------------------------------------------------------------------------------------- | ---------------- |
-> | [[../Sensemaking happens by triangulation\|Sensemaking happens by triangulation]] | January 01, 2022 |
-> | [[../PKM Planet 1 - What is PKM\|PKM Planet 1 - What is PKM]]                     | April 19, 2021   |
-> | [[../What is a note\|What is a note]]                                             | June 01, 2020    |
+> | [[./Sensemaking happens by triangulation\|Sensemaking happens by triangulation]] | January 01, 2022 |
+> | [[./PKM Planet 1 - What is PKM\|PKM Planet 1 - What is PKM]]                     | April 19, 2021   |
+> | [[./What is a note\|What is a note]]                                             | June 01, 2020    |
 > 
 
 

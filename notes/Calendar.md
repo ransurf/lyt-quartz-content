@@ -2,7 +2,7 @@
 up:
   - "[[Home|Home]]"
 related:
-  - "[[../Define your time-style|Define your time-style]]"
+  - "[[./Define your time-style|Define your time-style]]"
 created: 2023-08-19
 tags:
   - map_view
@@ -17,4 +17,4 @@ Our ideas and experiences are wrapped up in a linear movement we call **Time**. 
 
 Notes allow you to time travel. It's how Present You can receive messages from Past You and send messages to Future you. 
 
-Need help to [[../Define your time-style|Define your time-style]]?
+Need help to [[./Define your time-style|Define your time-style]]?

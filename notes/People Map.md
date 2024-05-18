@@ -14,7 +14,7 @@ Here's a cool view for you:
 > 
 >  | People                                    | Years Lived |
 > | ----------------------------------------- | ----------- |
-> | [[../Ptolemy (kit)\|Ptolemy (kit)]] | 100 - 170   |
+> | [[./Ptolemy (kit)\|Ptolemy (kit)]] | 100 - 170   |
 > 
 > 
 > ---

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../../home|Home]]"
+  - "[[../LYT Ideaverse|Home]]"
 created: 2023-08-19
 tags:
   - map
@@ -41,12 +41,12 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 ---
 
 > [!faq]+ Learn more about Efforts
-> - [[../A deeper dive into how ACE works|A deeper dive into how ACE works]]
-> - [[../Why Efforts are Liberating|Why Efforts are Liberating]]
-> - [[../The Four Intensities of Efforts|The Four Intensities of Efforts]]
-> - [[../How ideas and efforts play nicely together|How ideas and efforts play nicely together]]
-> - [[../The big differences between efforts and projects|The big differences between efforts and projects]]
+> - [[./A deeper dive into how ACE works|A deeper dive into how ACE works]]
+> - [[./Why Efforts are Liberating|Why Efforts are Liberating]]
+> - [[./The Four Intensities of Efforts|The Four Intensities of Efforts]]
+> - [[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]
+> - [[./The big differences between efforts and projects|The big differences between efforts and projects]]
 >   
 >   ![[robert-mccall-black-hole-concept-art copy.jpg|robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[../../home|Home]].
+Back to [[../LYT Ideaverse|Home]].

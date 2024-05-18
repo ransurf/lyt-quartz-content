@@ -32,7 +32,7 @@ For more ideas, check out the tags pane. Find "source" and twirl it down. The so
 > | ---- | ---- | ------ |
 > 
 
-Not included here, but in my personal vault, I enjoy checking out the comprehensive [[Source MOC|Source MOC]] and perusing my [[Bookshelf 📚|Bookshelf 📚]]. And to honor the old ones, I also keep a [[../Commonplace Book|Commonplace Book]] based on tags.
+Not included here, but in my personal vault, I enjoy checking out the comprehensive [[Source MOC|Source MOC]] and perusing my [[Bookshelf 📚|Bookshelf 📚]]. And to honor the old ones, I also keep a [[./Commonplace Book|Commonplace Book]] based on tags.
 
 > [!NOTE]+ This is a sanitized version of my actual note. 
 > - Content and links have been removed.
