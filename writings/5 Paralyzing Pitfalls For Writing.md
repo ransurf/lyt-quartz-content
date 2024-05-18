@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-25
-footerTitle: 
+footerTitle: Better title
 footerSubtitle: 
 ctaType: cta1
 created: 2024-05-07T07:51:22
