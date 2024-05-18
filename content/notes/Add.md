@@ -8,10 +8,11 @@ created: 2023-08-29T06:52:36
 obsidianUIMode: preview
 tags:
   - map_view
-  - map
 ---
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
+
 Thoughts come in hot. But after a few days, they cool down.
+
 When cooler thoughts prevail, you can better prioritize. Cool? 
 
 > [!activity]+ ## Added Stuff
