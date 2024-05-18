@@ -6,7 +6,6 @@ obsidianUIMode: preview
 tags:
   - map
 ---
-Want to learn more about the ideaverse?
 
 > [!Planet]- ## How to Customize your own Ideaverse.
 > This is the "Map of Content" for this starter ideaverse. Here you can:
