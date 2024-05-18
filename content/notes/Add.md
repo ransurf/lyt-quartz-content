@@ -30,10 +30,6 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 > LIMIT 10
 > ```
 
-> [!Notes]- This data view 🔬 only renders in the downloadable version.
-> You won't be able to see the magic unless you download the kit, but here's kind of what it looks like in "Ideaverse for Obsidian"
-> ![[lyt-kit-example-cooling-pad-.png|lyt-kit-example-cooling-pad-.png]]
-
 ---
 
-If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)          
+If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)
