@@ -10,9 +10,7 @@ tags:
   - map_view
 ---
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
-
 Thoughts come in hot. But after a few days, they cool down.
-
 When cooler thoughts prevail, you can better prioritize. Cool? 
 
 > [!activity]+ ## Added Stuff
