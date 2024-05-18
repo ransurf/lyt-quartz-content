@@ -1,5 +1,8 @@
 ---
 publishDate: 2024-04-25
+footerTitle: 
+footerSubtitle: 
+ctaType: Ideaverse
 ---
 You started writing...then stopped.
 
