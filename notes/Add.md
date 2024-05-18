@@ -10,7 +10,9 @@ tags:
   - map_view
 ---
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
+
 Thoughts come in hot. But after a few days, they cool down.
+
 When cooler thoughts prevail, you can better prioritize. Cool? 
 
 > [!activity]+ ## Added Stuff
@@ -28,10 +30,6 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 > LIMIT 10
 > ```
 
-> [!Notes]- This data view 🔬 only renders in the downloadable version.
-> You won't be able to see the magic unless you download the kit, but here's kind of what it looks like in "Ideaverse for Obsidian"
-> ![[lyt-kit-example-cooling-pad-.png|lyt-kit-example-cooling-pad-.png]]
-
 ---
 
-If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)          
+If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)
