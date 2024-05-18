@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[./miniMaps/Habits Map|Habits Map]]"
+  - "[[./Habits Map|Habits Map]]"
 related: []
-created: 2020-06-01
+created: 2023-08-29T07:01:35
 ---
-Here's my showing how I can use the [[./miniMaps/Habits Map|Habits Map]] to outline a specific and linear article about habits.
+Here's my showing how I can use the [[./Habits Map|Habits Map]] to outline a specific and linear article about habits.
 
 ### Intro
 [[./Feedback Loop|Feedback Loop]]
@@ -31,7 +31,6 @@ Here's my showing how I can use the [[./miniMaps/Habits Map|Habits Map]] to outl
 
 ### Conclusion
 - [[./Small Wins foster a Sense of Control|Small Wins foster a Sense of Control]]
-
 
 ---
 ### Supporting Material

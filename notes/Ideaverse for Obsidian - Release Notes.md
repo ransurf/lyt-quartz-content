@@ -2,19 +2,19 @@
 up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
-created: 2022-05-11
+created: 2023-08-29T07:10:10
 modified: 2023-08-25
 ---
 
 # Ideaverse for Obsidian 1.0 - Release Notes
 *Released 2023-08-30*
 **Headlines**
-- Introduced the [[../home|Home]] note with ACE head spaces.
+- Introduced the [[../ |Home]] note with ACE head spaces.
 	- Provide multiple examples of 
 	- Provided a basic ARC Framework (Add, Relate, Communicate) for developing ideas into outputs.
 - Introduced the [[./ACE Folder Framework|ACE Folder Framework]].
 	- Provided ACE with multiple notes and examples.
-- Introduced a working system for [[./miniMaps/Efforts|Efforts]] based on intensities. 
+- Introduced a working system for [[./Efforts|Efforts]] based on intensities. 
 	- Provided "Efforts" with multiple examples.
 
 **Details**
@@ -23,7 +23,6 @@ modified: 2023-08-25
 - Did general clean-up. 
 - Changed the name of the kit from LYT Kit to Ideaverse for Obsidian because Ideaverse evokes the connected, yet wide open nature of notes and ideas.
 	- Further, this release is called Ideaverse for Obsidian. But the name opens the door for other versions such as of Ideaverse for Organizations and Ideaverse for XYZ. So the name change allows the principles to naturally transcend the tool. 
-
 
 ---
 

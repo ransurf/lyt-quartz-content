@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[./miniMaps/Meta PKM|Meta PKM]]"
-created: 2020-06-01
+  - "[[./Meta PKM|Meta PKM]]"
+created: 2023-08-29T07:04:44
 ---
 For those that want to maintain an alphabetical "Map of Maps" list, check this out. The below list *was* in alphabetical order a long time ago. But as I make sense of the world, I constantly tweak filenames. So now look at how out of order it has become. 
 
 This is why you should just use the tag `#MOC` for your alphabetical list instead.
 
-- [[./miniMaps/Meta PKM|Meta PKM]]
+- [[./Meta PKM|Meta PKM]]
 - [[Greco-Roman MOC|Greco-Roman MOC]]
 - [[Art MOC|Art MOC]]
 - [[Confucianism MOC|Confucianism MOC]]
@@ -16,7 +16,7 @@ This is why you should just use the tag `#MOC` for your alphabetical list instea
 - [[Football MOC|Football MOC]]
 - [[History MOC|History MOC]]
 - [[Building Homes MOC|Building Homes MOC]]
-- [[./miniMaps/Language MOC|Language MOC]]
+- [[./Language MOC|Language MOC]]
 	- [[Chinese Language MOC|Chinese Language MOC]]
 	- [[English Language MOC|English Language MOC]]
 	- [[French Language MOC|French Language MOC]]
@@ -24,6 +24,6 @@ This is why you should just use the tag `#MOC` for your alphabetical list instea
 - [[Literature MOC|Literature MOC]]
 - [[Rhetoric MOC|Rhetoric MOC]]
 - [[Stoicism MOC|Stoicism MOC]]
-- [[./miniMaps/Philosophy MOC (kit)|Philosophy MOC (kit)]]
+- [[./Philosophy MOC (kit)|Philosophy MOC (kit)]]
 - [[Vocals MOC|Vocals MOC]]
 - [[Words MOC|Words MOC]]

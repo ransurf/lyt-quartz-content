@@ -2,7 +2,7 @@
 up:
   - "[[The 3 Phases of MOCs|The 3 Phases of MOCs]]"
 related: []
-created: 2020-06-01
+created: 2023-08-29T11:18:23
 ---
 This is where you generate all the insights. This is where ideas *collide*. It's where your ideas battle for relational positioning. This is the most joyous and valuable stage.
 
@@ -63,4 +63,4 @@ I also try to keep track of the standalone concepts I've roped in here:
 [[Selfish Gene TK|Selfish Gene TK]]
 
 ---
-Next:: [[./miniMaps/Habits Map|Habits Map]] - Navigate
+Next:: [[./Habits Map|Habits Map]] - Navigate

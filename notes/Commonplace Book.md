@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[./miniMaps/Sources Map|Sources Map]]"
-created: 2020-06-01
+  - "[[./Sources Map|Sources Map]]"
+created: 2023-08-29T07:04:50
 tags:
   - map
   - source_quote
@@ -9,7 +9,7 @@ tags:
 
 Welcome to your "commonplace book" of interesting tidbits you've collected. Try clicking on #source/quote to see a couple results. 
 
-> [[./miniMaps/Sources Map|Sources Map]] | [[Commonplace Book|Commonplace Book]] | [[Bookshelf 📚|Bookshelf 📚]]
+> [[./Sources Map|Sources Map]] | [[Commonplace Book|Commonplace Book]] | [[Bookshelf 📚|Bookshelf 📚]]
 
 NOTE: Since I removed the Quotes Pack from Ideaverse for Obsidian, most of the tags below won't populate results. 
 

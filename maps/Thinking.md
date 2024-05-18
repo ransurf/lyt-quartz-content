@@ -1,18 +1,18 @@
 ---
 up:
   - "[[home|home]]"
-down:
-  - "[[../notes/miniMaps/Relate|Relate]]"
 related:
-  - "[[../notes/miniMaps/Concepts Map|Concepts Map]]"
-created: 2023-08-18
+  - "[[../notes/Concepts Map|Concepts Map]]"
+down:
+  - "[[../notes/Relate|Relate]]"
+created: 2024-05-08T09:55:37
 tags:
   - map
 empty: 
 ---
 It's time to give ***"thinking"*** the space it deserves. Let's cultivate this inherently rich endeavor.
 
-My first stop for thinking is to the [[../notes/miniMaps/Relate|Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[../notes/Flow|Flow]]. I keep the [[../notes/miniMaps/Concepts Map|Concepts Map]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.
+My first stop for thinking is to the [[../notes/Relate|Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[../notes/Flow|Flow]]. I keep the [[../notes/Concepts Map|Concepts Map]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and I left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 
@@ -30,17 +30,17 @@ Want more mind training?
 - Go to [[Meditation Jaunts|Meditation Jaunts]] and [[Brief Meditation Sequences|Brief Meditation Sequences]] to slow down and reset.
 - Go to a few of your [[Mind Palaces|Mind Palaces]] to work your visualizing muscles.
 - Combine the mental with the physical for the world-champion [[Lucia Stance|Lucia Stance]]
-- A few grounding tactics are to brush up the [[../notes/FlowCreation MOC|FlowCreation MOC]] and [[../notes/miniMaps/Habits Map|Habits Map]]s.
+- A few grounding tactics are to brush up the [[../notes/FlowCreation MOC|FlowCreation MOC]] and [[../notes/Habits Map|Habits Map]]s.
 
 Always remember, one of the best prompting tools out there is the thesaurus. So when you want to both jumpstart and enrich your thinking, grab a thesaurus and go on a [[Word Excursion|Word Excursion]].
 
 ## Definitions
 Let's define some overlapping conceptual categories:
 
--   **Concept**: A concept is a pattern, truth, or mechanism that has been given a name.
--   **Mental Models** are specific readily-available patterns or mechanisms that—*when applied to a current situation or thing*—allow for efficient, optimal action. Great for strategic agency and in-the-moment adaptability.
--   **Metaphors** are primarily for relating unlike things. Great for creative expression and a means unto itself.
--   [[../notes/Refraction Thinking|Refraction Thinking]] is primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating. 
+- **Concept**: A concept is a pattern, truth, or mechanism that has been given a name.
+- **Mental Models** are specific readily-available patterns or mechanisms that—*when applied to a current situation or thing*—allow for efficient, optimal action. Great for strategic agency and in-the-moment adaptability.
+- **Metaphors** are primarily for relating unlike things. Great for creative expression and a means unto itself.
+- [[../notes/Refraction Thinking|Refraction Thinking]] is primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating. 
 
 ## Three thinking styles
 1. Top-down thinking

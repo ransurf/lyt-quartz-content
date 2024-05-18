@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Map|Ideaverse Map]]"
+  - "[[../Ideaverse Map|Ideaverse Map]]"
 related: []
-created: 2020-06-01
+created: 2023-08-28T02:39:18
 ---
 Note-making is a process for:
 
@@ -51,11 +51,11 @@ You simple must go through the [[./The 3 Phases of MOCs|The 3 Phases of MOCs]] t
 
 Before you click that link though, let's finish the big picture. 
 
-Do you see at the top of this note, how I have a link "up" to the [[Ideaverse Map|Ideaverse Map]]? There is something powerful in linking your notes together. It allows you lightning fast navigation—especially back to your Home note. In this case, it's simple:
+Do you see at the top of this note, how I have a link "up" to the [[../Ideaverse Map|Ideaverse Map]]? There is something powerful in linking your notes together. It allows you lightning fast navigation—especially back to your Home note. In this case, it's simple:
 
 - This note, [[On the process of note-making|On the process of note-making]]
-	- ...leads back to [[Ideaverse Map|Ideaverse Map]]...
-		- ...which leads back to the [[../home|Home]] note!
+	- …leads back to [[../Ideaverse Map|Ideaverse Map]]…
+		- …which leads back to the [[../ |Home]] note!
 
 That means I've created a star map where I can make hyperspace jumps between different levels of "Idea Emergence" in just a few clicks.
 

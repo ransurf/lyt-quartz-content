@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Ideaverse Map|Ideaverse Map]]"
+  - "[[../Ideaverse Map|Ideaverse Map]]"
 related: []
-created: 2020-06-01
+created: 2023-08-29T07:14:26
 ---
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.
 
-That argument applies to a system of folders. It does not apply to more fluid structures. Let's explore...
+That argument applies to a system of folders. It does not apply to more fluid structures. Let's explore…
 
 **Argument 1**
 Creating categories is a top-down process. You start with the structure and then file the material away. Notes will have to fit the structure. If they don’t, there’ll have to be a compromise. [^1]
@@ -21,7 +21,7 @@ Here is that same picture: Wolverine is the note, and your Home note is just ano
 Static categories are rigid. Our brains are not rigid. Therefore static categories inhibit our knowledge from growing organically.
 
 **Counter**
-This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's note called: [[Ideaverse Map|Ideaverse Map]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
+This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's note called: [[../Ideaverse Map|Ideaverse Map]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
 
 **Argument 3**
 I don't have categories and I'm doing fine.
