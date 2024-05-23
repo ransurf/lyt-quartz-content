@@ -25,8 +25,9 @@ If you also use links in a tool like Obsidian, then you have the potential to ea
 
 The Architect and the Gardener.
 
-Architects = top-down thinkers that prioritize order and organization.
-Gardeners = bottom-up thinkers that prioritize creativity and curiosity.
+- Architects = top-down thinkers that prioritize order and organization.
+- Gardeners = bottom-up thinkers that prioritize creativity and curiosity.
+
 Which style is your natural one? Here is the easiest way to determine it. When you are in the early stages of a new work…
 
 Do you know the end of your story?
