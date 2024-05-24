@@ -12,7 +12,7 @@ Your launchpad and home base. That's here. That's **home**.
 > 
 > - To do inspired work, go to [[./notes/Add|Add]], [[./notes/Relate|Relate]], and [[./notes/Communicate|Communicate]].
 >   
-> ![[mckie-ship-and-sea-mid-narrow-.jpg|400]]
+> ![[./attachments/mckie-ship-and-sea-mid-narrow-.jpg|400]]
 > - To launch into your knowledge, try out: [[./notes/Library|Library]] | [[./notes/People Map|People Map]] | [[./notes/Sources Map|Sources Map]].
 > - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/Concepts Map|Concepts Map]]. 
 > - For grounding, [[./notes/Life Map|Life Map]]. For training, [[./Ideaverse Map|Ideaverse Map]]. For rules, [[./notes/Meta PKM|Meta PKM]].
@@ -23,7 +23,7 @@ Your launchpad and home base. That's here. That's **home**.
 > - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
 > - To capture specific type of things, go to [[Logs (Example|Logs]]).
 >   
-> ![[robert-mccall-space-ship-launch-narrower.png|400]]
+> ![[./attachments/robert-mccall-space-ship-launch-narrower.png|400]]
 > - To broadly reflect, go to [[./notes/Plan and Review|Plan and Review]].
 > - To learn more about time travel, go to [[./notes/Calendar|Calendar]].
 
@@ -63,7 +63,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > SORT rank desc
 > > ```
 > 
-> ![[robert-mccall-black-hole-concept-art copy.jpg|400]]
+> ![[./attachments/robert-mccall-black-hole-concept-art copy.jpg|400]]
 
-![[pale-blue-dot-banner.jpg|pale-blue-dot-banner.jpg]]
+![[./attachments/pale-blue-dot-banner.jpg|pale-blue-dot-banner.jpg]]
 
