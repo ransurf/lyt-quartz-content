@@ -9,19 +9,13 @@ ctaType: cta2
 ---
 Have you ever walked in a Japanese garden?
 
-It's a special experience. It has an effect on you. You start noticing things. Observing things. Admiring things.
-
-I'll put it this way, on the streets of New York City, I'm a speed walker. Time is money. But in a Japanese garden, speed disappears. Time loses its connection to money.
+It's a special experience. It has an effect on you. You start noticing things. Observing things. Admiring things. I'll put it this way, on the streets of New York City, I'm a speed walker. Time is money. But in a Japanese garden, speed disappears. Time loses its connection to money.
 
 That's the power of our environment.
 
-"Even when you realize how much your environment is shaping you, it's still shaping you more than you realize."
+"Even when you realize how much your environment is shaping you, it's still shaping you more than you realize." And your notes are an environment that either help or hinder your thinking.
 
-And your notes are an environment that either help or hinder your thinking.
-
-If you're only using folders, don't be surprised to find your creativity stifled.
-
-If you also use links in a tool like Obsidian, then you have the potential to easily shift between the two archetypal styles we use to solve problems and do creative things.
+If you're only using folders, don't be surprised to find your creativity stifled. If you also use links in a tool like Obsidian, then you have the potential to easily shift between the two archetypal styles we use to solve problems and do creative things.
 
 The Architect and the Gardener.
 
