@@ -1,3 +1,6 @@
+---
+created: 2024-05-24T01:03:02
+---
 - Once you are done, you run publisher
 - Then if you feel it is good, then you stage it? hmm
 
