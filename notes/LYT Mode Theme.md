@@ -5,7 +5,7 @@ related:
 created: 2023-08-29T07:10:57
 ---
 
-![[lyt-mode-graphic-1.jpg|lyt-mode-graphic-1.jpg]]
+![[../attachments/lyt-mode-graphic-1.jpg|lyt-mode-graphic-1.jpg]]
 
 LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking. It was designed by [@ceciliamay](https://github.com/ceciliamay) on commission from Nick Milo for the purpose of evolving his Cybertron theme. Cyberpunk-inspired,
 
