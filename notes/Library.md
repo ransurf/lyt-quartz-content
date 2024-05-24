@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../ |Home]]"
+  - "[[../home|Home]]"
 related: []
 created: 2023-08-29T06:50:08
 tags:
@@ -21,7 +21,7 @@ Navigate your library of maps with a classification system made specifically for
 > - 800 - *Literature*
 > - 900 - *History & Biography & Geography*
 > 
-> ![[whelan-space-station-1978-mod.jpg|whelan-space-station-1978-mod.jpg]]
+> ![[../attachments/whelan-space-station-1978-mod.jpg|whelan-space-station-1978-mod.jpg]]
 > 
 > The LYT Classification System is ready-made to hold your diverse interests. 
 > 
@@ -91,4 +91,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to: [[../ |Home]]
+Up to: [[../home|Home]]
