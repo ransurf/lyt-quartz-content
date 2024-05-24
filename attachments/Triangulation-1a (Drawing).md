@@ -1,8 +1,8 @@
 ---
 excalidraw-plugin: parsed
+created: 2022-01-15T09:20:26
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Text Elements
 "I'm Nick!" ^QIkKmyuG

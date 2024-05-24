@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../ |Home]]"
+  - "[[../home|Home]]"
 created: 2023-08-29T09:15:36
 tags:
   - map
@@ -45,6 +45,6 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 > - [[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]
 > - [[./The big differences between efforts and projects|The big differences between efforts and projects]]
 >   
->   ![[robert-mccall-black-hole-concept-art copy.jpg|robert-mccall-black-hole-concept-art copy.jpg]]
+>   ![[../attachments/robert-mccall-black-hole-concept-art copy.jpg|robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[../ |Home]].
+Back to [[../home|Home]].

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../ |Home]]"
+  - "[[../home|Home]]"
 related: []
 created: 2023-08-29T06:53:08
 tags:
@@ -17,7 +17,7 @@ Starting some days, I'll consider how to apply three *strategic* mental models: 
 For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[./Reps|Reps]], creating the conditions for [[./Flow|Flow]], which involves environmental [[./Forcing Function|Forcing Functions]], and considering when I can multitask [[./Shadow Clone|Shadow Clone]]. 
 
 > [!Connect]- A single concept opens up new ways of looking at the world
-> ![[McCall-pen-sketch-narrow.jpg|McCall-pen-sketch-narrow.jpg]]
+> ![[../attachments/McCall-pen-sketch-narrow.jpg|McCall-pen-sketch-narrow.jpg]]
 
 [[./Natural Selection|Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[./Lindy Effect|Lindy Effect]], along with [[./Hormesis|Hormesis]] and [[./Antifragility|Antifragility]]—and also more broadly [[./Cause and Effect|Cause and Effect]]. This reminds me of [[./Concept Expansion|Concept Expansion]].
 
@@ -70,4 +70,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[../ |Home]] !
+Back to: [[../home|Home]] !
