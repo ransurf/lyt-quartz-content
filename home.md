@@ -1,5 +1,5 @@
 ---
-title: " "
+title: 
 aliases:
   - Home
 created: 2024-05-05T01:13:31

@@ -22,4 +22,4 @@ But first:
 If we mostly agree, then:
 
 - Go deeper into the [[../Ideaverse Map|Ideaverse Map]]…
-- Or go [[../ |Home]].
+- Or go [[../home|Home]].

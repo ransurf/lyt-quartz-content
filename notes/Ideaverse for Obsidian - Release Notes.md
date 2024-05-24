@@ -9,7 +9,7 @@ modified: 2023-08-25
 # Ideaverse for Obsidian 1.0 - Release Notes
 *Released 2023-08-30*
 **Headlines**
-- Introduced the [[../ |Home]] note with ACE head spaces.
+- Introduced the [[../home|Home]] note with ACE head spaces.
 	- Provide multiple examples of 
 	- Provided a basic ARC Framework (Add, Relate, Communicate) for developing ideas into outputs.
 - Introduced the [[./ACE Folder Framework|ACE Folder Framework]].
