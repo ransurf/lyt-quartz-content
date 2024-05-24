@@ -54,8 +54,6 @@ ___
 
 This is a text with a footnote.[^1]
 
-[^1]: This is the footnote.
-
 Inline math: \( E = mc^2 \)
 
 Block math:
@@ -63,11 +61,9 @@ $$
 \int_{a}^{b} f(x) \,dx
 $$
 
-
 <div style="border: 1px solid black; padding: 10px;">
   This is a block with a border.
 </div>
-
 
 > [!NOTE]
 > This is a note.
@@ -87,3 +83,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+[^1]: This is the footnote.
