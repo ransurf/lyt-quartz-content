@@ -1,8 +1,9 @@
 ---
 up:
   - "[[Tech|Tech]]"
+  - "[[Current Events|Current Events]]"
 related: 
-category: 
+category: Writings
 created: 2024-05-14T12:14:14
 published: 2024-05-24
 title: Is there something rotten at OpenAI?
