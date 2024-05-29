@@ -7,7 +7,7 @@ category: Writings
 created: 2024-05-14T12:14:14
 published: 2024-05-24
 title: Is there something rotten at OpenAI?
-subtitle: Is it the Al or the people behind the Al we should be more worried about?
+subtitle: Is it the AI or the people behind the AI we should be more worried about?
 ---
 In the parable about the frog in the boiling pot, we're told the water starts out comfortable for the frog. It stays comfortable for just long enough for the frog to relax too much. Then, as the water starts to real heat up, it's too late for our frog.
 
