@@ -1,6 +1,6 @@
 ---
-title: " "
 created: 2024-05-09T03:34:44
+disableTitle: true
 ---
 The safe trail ends. A forest stands before you.
 
