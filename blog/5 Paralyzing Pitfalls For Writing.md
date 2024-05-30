@@ -3,7 +3,7 @@ publishDate: 2024-04-25
 ctaTitle: Better title
 ctaSubtitle: 
 ctaButton: 
-ctaType: cta1
+ctaType: default
 created: 2024-05-07T07:51:22
 ---
 You started writing…then stopped.
