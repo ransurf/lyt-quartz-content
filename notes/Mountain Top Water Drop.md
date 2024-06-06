@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:11:20
 tags:
   - concept
+  - map
 ---
 The concept was delivered by Edward James Olmos in Joaquin Phoenix's quasi-spoof movie "I'm Here". 
 
