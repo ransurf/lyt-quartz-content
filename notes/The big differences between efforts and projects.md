@@ -5,6 +5,8 @@ related:
   - "[[Why Efforts are Liberating|Why Efforts are Liberating]]"
   - "[[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]"
 created: 2023-08-28T09:19:58
+tags:
+  - map
 ---
 Let's get the definitions right:
 
