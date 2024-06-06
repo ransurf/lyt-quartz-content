@@ -3,6 +3,8 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:14:09
+tags:
+  - map
 ---
  *What will Future Me like to see?*
 
