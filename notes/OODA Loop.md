@@ -5,6 +5,7 @@ related: []
 created: 2023-08-28T02:48:15
 tags:
   - concept
+  - map
 ---
 
 > The faster you can: *observe* the changes in your environment, *orient* advantageously, *decide* on the best course of action, and actually *act* on that decision…the greater your chances of victory. ^ac47c8
