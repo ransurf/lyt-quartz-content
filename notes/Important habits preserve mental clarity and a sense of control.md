@@ -4,6 +4,8 @@ up:
 related: []
 created: 2023-08-29T07:10:13
 modified: 2020-05-28
+tags:
+  - map
 ---
 I have found that important habits seem to be excellent at preserving mental clarity and a [[./Sense of Control|Sense of Control]]. It's no surprise. The forces of psychic entropy must constantly be held at bay. 
 
