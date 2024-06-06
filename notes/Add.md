@@ -8,6 +8,7 @@ created: 2023-08-29T06:52:36
 obsidianUIMode: preview
 tags:
   - map_view
+  - map
 ---
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
 
