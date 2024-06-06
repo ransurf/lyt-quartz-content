@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:10:40
 tags:
   - concept
+  - map
 ---
  *The longer I'm around, the longer I'll be around*
 
