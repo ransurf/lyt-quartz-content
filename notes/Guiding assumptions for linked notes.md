@@ -3,6 +3,8 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-28T02:39:18
+tags:
+  - map
 ---
 
 > The external part of your ideaverse should make sense and be useable to someone else—including and especially your future self. 
