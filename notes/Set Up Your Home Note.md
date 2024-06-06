@@ -3,6 +3,8 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-28T02:39:18
+tags:
+  - map
 ---
 Your Home note is your north star, navigating you to your Maps of Content (MOCs). It keeps the entire system organized.
 
