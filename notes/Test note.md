@@ -7,6 +7,7 @@ tags:
   - tag2_subtag
 ---
 
+# 2x2 with BR
 > [!NOTE] Callout 1
 > Contents
 
@@ -15,8 +16,61 @@ tags:
 > [!INFO] aldjalksd
 > asldkjaslkdjaskldjasldkj
 
+<br/>
+
 > [!NOTE] Callout 1
 > Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+# 2x2 with Quote
+> [!NOTE] Callout 1
+> Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+>
+
+> [!NOTE] Callout 1
+> Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+# 2 in a row no empty
+> [!NOTE] Callout 1
+> Contents
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+<br/>
+
+> [!NOTE] Callout 1
+> Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+
+# 3 with BR
+> [!NOTE] Callout 1
+> Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
 
 > [!EMPTY] 
 
