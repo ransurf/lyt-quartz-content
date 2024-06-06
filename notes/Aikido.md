@@ -6,6 +6,7 @@ related:
 created: 2023-08-29T07:01:06
 tags:
   - concept
+  - map
 dates: 1920s - 1930s
 ---
 There is an art to handling self-perpetuating aggressiveness. 
