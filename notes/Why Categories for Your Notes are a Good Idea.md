@@ -3,6 +3,8 @@ up:
   - "[[../Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:14:26
+tags:
+  - map
 ---
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.
 
