@@ -1,5 +1,7 @@
 ---
 created: 2023-08-29T07:03:18
+tags:
+  - map
 ---
 The cabin is my epicenter.
 
