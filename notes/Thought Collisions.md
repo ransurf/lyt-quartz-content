@@ -3,6 +3,8 @@ up:
   - "[[MOCs are both workbenches and maps|MOCs are both workbenches and maps]]"
 related: []
 created: 2023-08-29T07:14:01
+tags:
+  - map
 ---
 Ideas are forged from thoughts coming together and talking. 
 
