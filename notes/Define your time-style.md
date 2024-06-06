@@ -2,6 +2,8 @@
 up:
   - "[[Calendar|Calendar]]"
 created: 2023-08-29T07:07:13
+tags:
+  - map
 ---
 What's your time-style? I'm a more of a "monthly note" kind of person, but many people love their Daily Note workflow. I will still randomly capture sparks in a daily note, but I like to work from a monthly note.
 
