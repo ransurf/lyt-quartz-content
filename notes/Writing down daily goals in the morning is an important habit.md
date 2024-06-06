@@ -4,6 +4,8 @@ up:
 related: []
 created: 2023-08-29T07:14:33
 modified: 2020-05-28
+tags:
+  - map
 ---
 This follows: [[./Journaling in the morning is an important habit|Journaling in the morning is an important habit]]. After journaling, set some broad, simple daily goals.
 
