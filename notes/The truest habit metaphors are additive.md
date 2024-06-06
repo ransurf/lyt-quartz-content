@@ -3,6 +3,8 @@ up:
   - "[[Habits Map|Habits Map]]"
 related: []
 created: 2023-08-29T07:13:57
+tags:
+  - map
 ---
 There are two metaphorical ways to talk about habits: additive and subtractive.
 
