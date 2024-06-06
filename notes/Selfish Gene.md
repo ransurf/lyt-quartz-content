@@ -6,6 +6,7 @@ created: 2023-08-29T07:12:30
 tags:
   - concept
   - note_boat🚤
+  - map
 ---
 aka Immortal Gene
 
