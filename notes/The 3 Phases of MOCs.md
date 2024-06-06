@@ -3,6 +3,8 @@ up: []
 related:
   - "[[MOCs Overview|MOCs Overview]]"
 created: 2023-08-29T07:13:17
+tags:
+  - map
 ---
 Welcome to the walkthrough on MOCs. Maps of Content are one of the ultimate thinking tools. But how do you unlock this new superpower?
 
