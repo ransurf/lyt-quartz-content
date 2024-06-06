@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:10:38
 tags:
   - concept
+  - map
 ---
  *It's circular but true, we become what we do.*
 
