@@ -3,6 +3,8 @@ up:
   - "[[FlowCreation MOC|FlowCreation MOC]]"
 related: []
 created: 2023-08-29T07:07:51
+tags:
+  - map
 ---
 Attention is what the mind is focused on—and what it has been focused on over the recent past (the past 72 hours is simple way to look at it). Everything that enters the mind in the past 72 hours affects the next hour of thought. That's what it's so important to Guard and Guide Your Mind wisely.
 
