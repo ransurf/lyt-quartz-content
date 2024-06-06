@@ -4,6 +4,8 @@ up:
 related: []
 created: 2023-08-29T07:12:24
 modified: 2020-05-28
+tags:
+  - map
 ---
 Life happens. Sometimes we're on top of the world, other times the world is on top of us. Around May 2018, the world was on top of me. I felt an instinctual pull to rebuild some routine and structure into my day. Due to my undiagnosed condition to nounify everything, I began to refer to these practices as *Resiliency Routines*. Others who have read Duhigg might refer to them as "Keystone Habits".[^1] Normal people might just say "things I do in the morning and at night." 
 
