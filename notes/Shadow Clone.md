@@ -7,6 +7,7 @@ related:
 created: 2023-08-29T07:12:42
 tags:
   - concept
+  - map
 ---
  _Divide your energies to accomplish more, at the cost of increasing your fragility, exposure, and vulnerability_
 
