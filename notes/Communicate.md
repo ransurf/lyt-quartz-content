@@ -7,6 +7,7 @@ related:
 created: 2023-08-28T04:07:35
 tags:
   - map_view
+  - map
 ---
 This **Communicate** notes is a place to track your various *outputs*.
 
