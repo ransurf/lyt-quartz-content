@@ -6,6 +6,7 @@ created: 2023-08-29T07:09:04
 tags:
   - concept
   - note_develop🍃
+  - map
 ---
 Generally speaking, 
 *I am the bumper guards for the bowling ball.*
