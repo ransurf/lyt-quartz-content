@@ -5,6 +5,8 @@ related:
   - "[[The big differences between efforts and projects|The big differences between efforts and projects]]"
   - "[[Why Efforts are Liberating|Why Efforts are Liberating]]"
 created: 2023-08-28T01:18:24
+tags:
+  - map
 ---
 The best way to understand "efforts" is to walk through an example of how "efforts" naturally support existing ideas.
 
