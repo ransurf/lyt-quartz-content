@@ -6,6 +6,7 @@ created: 2023-08-28T04:18:07
 tags:
   - output_youtube☑️
   - output_lesson
+  - map
 premiered: 2021-01-08
 URLs:
   - https://www.youtube.com/watch?v=ehkbLyeKuII
