@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:11:31
 tags:
   - concept
+  - map
 ---
  *The self-destructive primal tension everybody harbors.*  
 

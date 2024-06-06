@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:13:07
 tags:
   - concept
+  - map
 ---
 This a long but powerful quote:
 

@@ -3,6 +3,8 @@ up:
   - "[[../Ideaverse Map|LYT]]"
 related: []
 created: 2023-08-29T09:41:59
+tags:
+  - map
 ---
 
 - **[[../Ideaverse Map|LYT]]** - Stands for "Linking Your Thinking".

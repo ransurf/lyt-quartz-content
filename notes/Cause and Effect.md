@@ -5,6 +5,7 @@ created: 2023-08-29T07:03:28
 tags:
   - concept
   - note_develop🍃
+  - map
 ---
  *I am, inevitable.*
 

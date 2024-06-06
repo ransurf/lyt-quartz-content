@@ -3,6 +3,8 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:11:15
+tags:
+  - map
 ---
 Ideas are often forged in argument where opposing propositions are set against each other. 
 

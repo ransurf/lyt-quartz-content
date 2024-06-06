@@ -10,6 +10,17 @@ tags:
   - map
 empty: 
 ---
+
+> [!NOTE] Callout 1
+> Contents
+
+> [!EMPTY] 
+
+> [!INFO] aldjalksd
+> asldkjaslkdjaskldjasldkj
+
+
+
 It's time to give ***"thinking"*** the space it deserves. Let's cultivate this inherently rich endeavor.
 
 My first stop for thinking is to the [[../notes/Relate|Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[../notes/Flow|Flow]]. I keep the [[../notes/Concepts Map|Concepts Map]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.

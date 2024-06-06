@@ -3,6 +3,8 @@ up:
   - "[[MOCs Overview|MOCs Overview]]"
 related: []
 created: 2023-08-29T07:11:07
+tags:
+  - map
 ---
 An M—O—C is a cluster of information that maps "things" in context with other "things".
 

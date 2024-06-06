@@ -3,6 +3,8 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:08:47
+tags:
+  - map
 ---
  *Fluid frameworks are non-rigid, highly-flexible organizing structures that you can use as needed.* When we talk about fluid frameworks in the "Linking Your Thinking" System, we're mainly referring to higher-order notes like MOCs and the Home note (but a balanced use of MOCs, folders, tags, and queries can also maintain a fluid structure).
 

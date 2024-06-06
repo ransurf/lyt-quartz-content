@@ -5,6 +5,8 @@ related:
   - "[[./The big differences between efforts and projects|The big differences between efforts and projects]]"
   - "[[./How ideas and efforts play nicely together|How ideas and efforts play nicely together]]"
 created: 2023-08-29T06:55:24
+tags:
+  - map
 ---
 Thinking of your efforts as "efforts"—and not projects—is liberating and empowering because:
 

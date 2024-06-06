@@ -6,6 +6,7 @@ related:
 created: 2023-08-29T10:47:27
 tags:
   - map_view
+  - map
 ---
 Our ideas and experiences are wrapped up in a linear movement we call **Time**. It's a great way to organize and remember stuff. Here's how you can make Time work for you:
 

@@ -9,6 +9,7 @@ tags:
   - output_youtube☑️
   - output_newsletter
   - output_website
+  - map
 ---
 
 > [!Box]- Outputs by date and location

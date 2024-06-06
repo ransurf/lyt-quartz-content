@@ -4,6 +4,8 @@ up:
 related:
   - "[[ACE helps you with context switching|ACE helps you with context switching]]"
 created: 2023-08-29T12:18:53
+tags:
+  - map
 ---
 In PKM, there are three main Head Spaces to move between.
 

@@ -4,6 +4,8 @@ up:
 related: []
 created: 2023-08-29T07:09:40
 modified: 2020-05-28
+tags:
+  - map
 ---
 Atomic Habits is a term from James Clear, with a [[Atomic Habits (book)|book of the same name]]. 
 

@@ -3,6 +3,8 @@ up: []
 related:
   - "[[./Note-makers|Note-makers]]"
 created: 2023-08-29T07:11:42
+tags:
+  - map
 ---
 People who spend too much of their time consuming information passively. 
 

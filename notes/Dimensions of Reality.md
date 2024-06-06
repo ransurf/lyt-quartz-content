@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:07:41
 tags:
   - concept
+  - map
 ---
  *What if you thought two dimensions was the entirety of reality?*
 

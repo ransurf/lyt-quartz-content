@@ -4,6 +4,8 @@ up:
 related:
   - "[[./Use STIR To Remember More|STIR]]"
 created: 2023-08-29T12:19:06
+tags:
+  - map
 ---
 The reason why the [[./ACE Folder Framework|ACE Folder Framework]] works is because it allows you to organize by *Intention*.
 

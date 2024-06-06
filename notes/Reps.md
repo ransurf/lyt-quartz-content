@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:12:23
 tags:
   - concept
+  - map
 ---
  *"Reps, Reps, Reps."* ^dbdd21
 

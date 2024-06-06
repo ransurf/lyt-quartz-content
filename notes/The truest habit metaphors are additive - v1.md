@@ -3,6 +3,8 @@ up:
   - "[[Habits MOC - Gather|Habits MOC - Gather]]"
 related: []
 created: 2023-08-23T08:23:42
+tags:
+  - map
 ---
 There are two metaphorical ways to talk about habits: additive and subtractive.
 
