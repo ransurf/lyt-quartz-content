@@ -3,6 +3,8 @@ title:
 aliases:
   - Home
 created: 2024-05-05T01:13:31
+tags:
+  - map
 ---
 
 Your launchpad and home base. That's here. That's **home**.
