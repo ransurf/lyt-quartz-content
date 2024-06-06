@@ -4,6 +4,7 @@ related: []
 created: 2023-08-29T07:13:09
 tags:
   - note_boat🚤
+  - map
 coined: "1864"
 ---
 
