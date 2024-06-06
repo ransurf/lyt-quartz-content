@@ -5,6 +5,8 @@ related:
   - "[[./Divergence (defn)|Divergence (defn)]]"
   - "[[./Convergence (defn)|Convergence (defn)]]"
 created: 2023-08-29T07:05:10
+tags:
+  - map
 ---
  **Complexity** is basically how many units of information we’re looking at in a given system. 
 
