@@ -3,6 +3,8 @@ up:
   - "[[The forest entrance|The forest entrance]]"
 related: []
 created: 2023-08-29T07:09:22
+tags:
+  - map
 ---
 When it comes to managing your digital knowledge, the following are some guiding values and principles to consider.
 
