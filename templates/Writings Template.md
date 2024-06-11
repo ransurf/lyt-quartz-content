@@ -1,7 +1,15 @@
 ---
-up: 
-related: 
 category: 
-created: 2024-05-14T12:14:14
-published: 
+up: 
+title: 
+subtitle: 
+created: Invalid date
+emerged: 
+evolved: 
+state: 
+ctaTitle: 
+ctaSubtitle: 
+ctaButton: 
+ctaFormId: 
+related: 
 ---

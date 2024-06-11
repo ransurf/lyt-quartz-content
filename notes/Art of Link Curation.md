@@ -4,7 +4,7 @@ up:
 related: []
 created: 2023-08-29T07:01:24
 ---
- *Links matter.*
+*Links matter.*
 
 Sharing link-based knowledge online has revealed new responsibilities—and opportunities.
 
