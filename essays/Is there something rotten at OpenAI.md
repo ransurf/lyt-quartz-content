@@ -17,6 +17,7 @@ ctaTitle:
 ctaSubtitle: 
 ctaButton: 
 ctaFormId: 
+ctaType: default
 ---
 In the parable about the frog in the boiling pot, we're told the water starts out comfortable for the frog. It stays comfortable for just long enough for the frog to relax too much. Then, as the water starts to real heat up, it's too late for our frog.
 
