@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Tech|Tech]]"
+  - "[[Current Events|Current Events]]"
 related: 
 category: Writings
 created: 2024-05-14T12:14:14
