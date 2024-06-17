@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[blog/Are you more of an architect or a gardener?|blog/Are you more of an architect or a gardener?]]"
+  - "[[Are you more of an architect or a gardener?|Are you more of an architect or a gardener?]]"
 related: 
 created: 2024-05-14T12:13:35
 ---
@@ -99,7 +99,6 @@ If you’re lost in abstraction, stop building unearned structure and get your h
 - Gardening
 
 There is an art to moving between Architect and Gardener. Once you get a feel for it, you'll have a skill to break through sticking points and continue making meaningful progress.
-
 
 ## Working Through And Going Around
 
