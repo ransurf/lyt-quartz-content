@@ -1,6 +1,6 @@
 ---
 up:
-  - Writing
+  - "[[Writing|Writing]]"
 category: Writings
 created: 2024-05-07T07:51:22
 published: 2024-04-25
@@ -10,7 +10,7 @@ ctaTitle: Better title
 ctaSubtitle: 
 ctaButton: 
 ctaFormId: 
-ctaType: cta1
+ctaType: default
 ---
 You started writing…then stopped.
 
