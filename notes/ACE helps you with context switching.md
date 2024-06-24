@@ -4,8 +4,6 @@ up:
 related:
   - "[[ACE honors the 3 head spaces of PKM|ACE honors the 3 head spaces of PKM]]"
 created: 2023-08-29T12:18:48
-tags:
-  - map
 ---
 It's hard to switch contexts. It's also hard to know when you should. ACE helps with that.
 
