@@ -3,8 +3,6 @@ up:
   - "[[Habits Map|Habits Map]]"
 related: []
 created: 2023-08-29T07:12:49
-tags:
-  - map
 ---
 In the literature, which I've forgotten, one of the most apparent attributes in building up desired habits is the concept of small wins. 
 
