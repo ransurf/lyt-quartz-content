@@ -6,7 +6,6 @@ created: 2023-08-28T02:44:26
 tags:
   - concept
   - source_quote_my
-  - map
 ---
 
 > *[[Structure must be earned|Structure must be earned]]!* #source/quote/my 
