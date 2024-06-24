@@ -3,8 +3,6 @@ up:
   - "[[./The 3 Phases of MOCs|The 3 Phases of MOCs]]"
 related: []
 created: 2023-08-29T07:13:19
-tags:
-  - map
 ---
 The 3 phases of MOCs are *non-linear*. They are not distinct like these examples. They overlap. They are messy. Don't make this rigid. Keep it fluid.
 
