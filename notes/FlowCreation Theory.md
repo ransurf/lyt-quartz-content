@@ -4,8 +4,6 @@ up:
 related:
   - "[[./Conditions of Flow|Conditions of Flow]]"
 created: 2023-08-29T07:08:34
-tags:
-  - map
 ---
 
 [[FlowCreation Theory|FlowCreation Theory]] is about creating the [[./Conditions of Flow|Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced|Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse for Obsidian)%%
