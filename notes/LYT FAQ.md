@@ -3,8 +3,6 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-28T02:39:18
-tags:
-  - map
 ---
 
 - **So now I have to manage MOCs?**
