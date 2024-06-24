@@ -5,8 +5,6 @@ related:
   - "[[./Four Factors of Flow|Four Factors of Flow]]"
 created: 2023-08-29T07:05:55
 evolved: 2019-01-01
-tags:
-  - map
 ---
 
 ### The Three Major Conditions of Flow
