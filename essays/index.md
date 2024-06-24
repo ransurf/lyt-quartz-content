@@ -12,6 +12,8 @@ Maps of Content: "[[What can we learn from nerdy discussions on MOCs]]"
 type: 
 created: 2024-05-16T04:23:43
 pageListSortType: published
+cssclasses:
+  - grid
 ---
 Browse essays by map.
 
@@ -37,4 +39,4 @@ Browse essays by map.
 
 ---
 
-### Chronological list
+## Chronological list
