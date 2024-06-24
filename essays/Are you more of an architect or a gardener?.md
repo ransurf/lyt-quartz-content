@@ -3,6 +3,7 @@ up:
   - "[[Thinking|Thinking]]"
 related:
   - "[[essays/5 Paralyzing Pitfalls For Writing|essays/5 Paralyzing Pitfalls For Writing]]"
+  - "[[5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]"
 category: Writings
 title: Are you more of an architect or a gardener?
 state:
