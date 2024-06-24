@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:08:17
 tags:
   - concept
-  - map
 ---
  *I am effortless effort, timeless time*
 
