@@ -1,14 +1,18 @@
 ---
 up:
   - "[[Writing|Writing]]"
+related: 
 category: Writings
-created: 2024-05-07T07:51:22
-published: 2024-04-25
+title: 5 Paralyzing Pitfalls For Writing
+subtitle: 
+created: 2024-05-07
+emerged: 2024-04-25
+evolved: 2024-05-01
 state:
   - Sapling
-ctaTitle: Better title
-ctaSubtitle: 
-ctaButton: 
+ctaTitle: Start Linking Your Thinking
+ctaSubtitle: Get our email course "The Ultimate Primer to Linking Your Thinking" to start creating an ideaverse that can support and power a lifetime of memories & ideas.
+ctaButton: Get the Ultimate Primer
 ctaFormId: 
 ctaType: default
 ---
