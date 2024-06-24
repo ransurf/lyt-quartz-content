@@ -4,8 +4,6 @@ up:
 related:
   - "[[./Selfish Gene|Selfish Gene]]"
 created: 2023-08-29T07:09:25
-tags:
-  - map
 ---
 Whenever we take an action, neurons fire and strengthen their connections. Then, when we repeat that same action, it miraculously requires less effort. How can this be?!
 
