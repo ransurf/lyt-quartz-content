@@ -3,8 +3,6 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:14:19
-tags:
-  - map
 ---
 First let's zoom out. Every note in a note library is a note. They come in two basic varieties: 
 
