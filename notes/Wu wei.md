@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:14:37
 tags:
   - concept
-  - map
 ---
  *“The art of sailing, rather than the art of rowing.” - Alan Watts*
 
