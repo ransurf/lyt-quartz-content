@@ -4,8 +4,6 @@ up:
 related:
   - "[[./Habit formation provides an evolutionary advantage|Habit formation provides an evolutionary advantage]]"
 created: 2023-08-29T07:03:42
-tags:
-  - map
 ---
 Duhigg's book, while full of the requisite filler of long pop-science stories, breaks ground on providing a simple habit formation process.[^1] 
 
