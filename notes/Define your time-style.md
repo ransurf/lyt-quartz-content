@@ -2,8 +2,6 @@
 up:
   - "[[Calendar|Calendar]]"
 created: 2023-08-29T07:07:13
-tags:
-  - map
 ---
 What's your time-style? I'm a more of a "monthly note" kind of person, but many people love their Daily Note workflow. I will still randomly capture sparks in a daily note, but I like to work from a monthly note.
 
@@ -30,4 +28,9 @@ Here's an example of a simple view that just searches your `Calendar` folder.
 > [!Calendar]+ ## Daily Notes
 > While I prefer to click on the Calendar tab (in one of the side tabs), below is a simple view of the `20` latest daily notes—including a few from the future:
 > 
->  
+> ```dataview
+> LIST
+> FROM "Calendar" and -#x/readme 
+> SORT file.name desc
+> LIMIT 20
+> ```
