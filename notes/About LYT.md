@@ -2,8 +2,6 @@
 up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 created: 2023-08-29T07:00:47
-tags:
-  - map
 ---
  *Why do you care about digital notes? What are you actually trying to do?*
 
