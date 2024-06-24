@@ -6,7 +6,6 @@ created: 2023-08-29T07:11:04
 tags:
   - concept
   - note_boat🚤
-  - map
 ---
 The Ancient Greeks and Romans filled their minds with tomes of knowledge that they could recall when needed. 
 
