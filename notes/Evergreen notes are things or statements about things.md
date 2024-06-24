@@ -3,8 +3,6 @@ up:
   - "[[Evergreen notes|Evergreen notes]]"
 related: []
 created: 2023-08-29T07:08:03
-tags:
-  - map
 ---
 Many evergreen notes should be statements with a clear opinion. That's because it forces you to really think about what you're trying to say. However, these "clear opinions" need "clear things" to talk about! What are these "things"?
 
