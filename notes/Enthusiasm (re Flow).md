@@ -3,8 +3,6 @@ up:
   - "[[FlowCreation MOC|FlowCreation MOC]]"
 related: []
 created: 2023-08-20T08:26:02
-tags:
-  - map
 ---
 
 ### Recipes to Help a Lack of Enthusiasm

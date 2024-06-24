@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:12:03
 tags:
   - note_develop🍃
-  - map
 people:
   - "[[Plato|Plato]]"
 ---

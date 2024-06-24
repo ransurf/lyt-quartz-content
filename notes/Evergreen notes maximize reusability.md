@@ -3,8 +3,6 @@ up:
   - "[[Evergreen notes|Evergreen notes]]"
 related: []
 created: 2023-08-29T07:08:07
-tags:
-  - map
 ---
 As the number of your evergreen notes grows over time, their value compounds into a priceless amalgamation of modular, agile thought-units. 
 

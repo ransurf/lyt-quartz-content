@@ -6,7 +6,6 @@ created: 2023-08-21T05:20:49
 tags:
   - concept
   - note_tidy🧹
-  - map
 ---
 One of the most monumental of all concepts. So many fascinating angles. 
 

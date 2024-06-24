@@ -3,8 +3,6 @@ up:
   - "[[FlowCreation MOC|FlowCreation MOC]]"
 related: []
 created: 2023-08-29T07:07:43
-tags:
-  - map
 ---
 Think of Direction like "Goals." It's great to have goals, but there is a point of Diminishing Return. Too many goals creates too many Directions. Think of the [[./evaporated in a thousand follies''|Abbe Faria's sage advice]] that too many goals make them all evaporate into *"a thousand follies."*
 

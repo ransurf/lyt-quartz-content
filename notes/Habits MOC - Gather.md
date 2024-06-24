@@ -3,8 +3,6 @@ up:
   - "[[The 3 Phases of MOCs|The 3 Phases of MOCs]]"
 related: []
 created: 2023-08-29T07:09:33
-tags:
-  - map
 ---
 The first non-linear phase of MOCs is where you *assemble, collect, gather, curate, incubate* your ideas. This is where you put related stuff on a new digital workbench.
 

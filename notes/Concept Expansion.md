@@ -7,7 +7,6 @@ created: 2023-08-29T07:05:43
 tags:
   - concept
   - source_quote
-  - map
 ---
 Take a word, any word, and just start using it in different ways. Each new instance expands our sense of the word.
 

@@ -3,8 +3,6 @@ up: []
 related:
   - "[[./Note-making creates unexpected optionality|Note-making creates unexpected optionality]]"
 created: 2023-08-29T07:10:41
-tags:
-  - map
 ---
 Something amazing happens when you start linking your digital notes. You develop the muscle to make leaps of insights across domains of knowledge. It's truly a super power—and a habit worth cultivating in today's age because "value" is created when strangers on a plane start talking. 
 

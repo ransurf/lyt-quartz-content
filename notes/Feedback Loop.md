@@ -6,7 +6,6 @@ related:
 created: 2023-08-29T07:08:13
 tags:
   - concept
-  - map
 ---
  *"The more you feed me, the more I feed you." - Feedback Loop*
 

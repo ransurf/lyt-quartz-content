@@ -4,8 +4,6 @@ up:
 related:
   - "[[Note-making sharpens your thinking|Note-making sharpens your thinking]]"
 created: 2023-08-29T07:11:35
-tags:
-  - map
 ---
 A second-order effect that results from "linking your thinking" is how much "Optionality" it offers. 
 

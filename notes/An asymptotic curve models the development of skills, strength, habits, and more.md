@@ -3,8 +3,6 @@ up:
   - "[[Habits Map|Habits Map]]"
 created: 2023-08-29T07:01:08
 modified: 2020-05-28
-tags:
-  - map
 ---
 An asymptotic curve is seen in the development of habits, skills, muscles, and more.
 

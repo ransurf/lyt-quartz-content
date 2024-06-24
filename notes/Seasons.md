@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:12:29
 tags:
   - note_develop🍃
-  - map
 ---
 The seasons are a natural example of [[./Yin and Yang|Yin and Yang]]…ebb and flow…It's usually a duality but it doesn't have to be a duality. Many things are cyclical: the seasons, perennials, period's for women, the moon, hunger and satiation…
 

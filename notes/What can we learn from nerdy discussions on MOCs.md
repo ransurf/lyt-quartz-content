@@ -3,8 +3,6 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:14:20
-tags:
-  - map
 ---
 Sometimes the best way of understanding something is hearing what people have to say about it. 
 

@@ -6,7 +6,6 @@ related:
 created: 2023-08-29T07:08:49
 tags:
   - source_quote
-  - map
 ---
 Fluid Taxonomies is a term coined by [[Steen Comer|Steen Comer]], which came up in our conversations about MOCs and other ways of managing knowledge.
 

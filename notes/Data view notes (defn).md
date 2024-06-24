@@ -4,8 +4,6 @@ up:
 related:
   - "[[./MOCs (defn)|MOCs (defn)]]"
 created: 2023-08-29T07:06:37
-tags:
-  - map
 ---
  *You requested the latest TPS reports?*
 

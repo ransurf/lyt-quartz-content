@@ -4,8 +4,6 @@ up:
 related:
   - "[[./Evergreen notes|Evergreen notes]]"
 created: 2023-08-29T07:03:12
-tags:
-  - map
 ---
 A BOAT note is a "Block of Atomic Thought" floating alone in an empty ocean… 🚤 ^706f5c
 

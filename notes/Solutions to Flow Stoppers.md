@@ -3,8 +3,6 @@ up:
   - "[[FlowCreation MOC|FlowCreation MOC]]"
 related: []
 created: 2023-08-20T06:44:59
-tags:
-  - map
 ---
 
 - [ ] Organize these using the four factors

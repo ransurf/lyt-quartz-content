@@ -3,8 +3,6 @@ up:
   - "[[On the process of note-making|On the process of note-making]]"
 related: []
 created: 2023-08-29T07:11:37
-tags:
-  - map
 ---
  *Where our attention goes, is where our meaning grows.*
 

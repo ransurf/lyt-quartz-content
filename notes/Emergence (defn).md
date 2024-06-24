@@ -3,8 +3,6 @@ up:
   - "[[Idea Emergence (defn)|Idea Emergence (defn)]]"
 related: []
 created: 2023-08-29T07:07:49
-tags:
-  - map
 ---
  **Emergence** refers to the existence or formation of collective behaviors — what parts of a system do together that they would not do alone. 
 

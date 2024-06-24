@@ -3,8 +3,6 @@ up:
   - "[[Thinking Map|Thinking Map]]"
 related: []
 created: 2023-08-29T07:08:51
-tags:
-  - map
 ---
 Being able to think fluidly gives you the awareness and skill to think from the right level of abstraction at the right time.
 

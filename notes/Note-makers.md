@@ -5,8 +5,6 @@ related:
   - "[[./Note-takers|Note-takers]]"
   - "[[Note-making is good because...|Note-making is good because...]]"
 created: 2023-08-29T07:11:33
-tags:
-  - map
 ---
 Note-makers are people who spend their thinking time in an active, engaged way—making sense of the stuff they encounter. 
 

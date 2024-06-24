@@ -5,8 +5,6 @@ related:
   - "[[The Riddle of Two Paths (kit)|The Riddle of Two Paths (kit)]]"
   - "[[The Riddle IS the Answer (kit)|The Riddle IS the Answer (kit)]]"
 created: 2023-08-20T06:17:34
-tags:
-  - map
 ---
 
 When I was young, my dad said we could open presents a day early if we solved his riddle. I chewed on the riddle trying to solve it. It was riveting to have a good riddle. 

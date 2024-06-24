@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:11:16
 tags:
   - concept
-  - map
 ---
 MOCs allow for flexible idea rearrangement because you can map the same bits of information in completely different ways.
 

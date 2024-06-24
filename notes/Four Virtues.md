@@ -4,8 +4,6 @@ up:
 related: []
 created: 2023-08-23T08:20:45
 modified: 2019-06-01
-tags:
-  - map
 ---
 I have found that a better way to look at Virtues is less as Values and more as "Abilities," because it implies that it's not enough to value something, you have to be skilled in it. 
 

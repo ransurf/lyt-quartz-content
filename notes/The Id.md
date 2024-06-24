@@ -5,7 +5,6 @@ related: []
 created: 2023-08-29T07:13:40
 tags:
   - concept
-  - map
 ---
  *I am the "It"*  
 

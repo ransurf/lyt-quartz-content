@@ -4,8 +4,6 @@ up:
 related:
   - "[[./On the process of note-making|On the process of note-making]]"
 created: 2023-08-29T07:07:57
-tags:
-  - map
 ---
 Note-takers _“churn and burn”_ through their notes. They take them for a specific short-term (“just-in-time”) purpose—like a test or a project. When the milestone concludes, the notes lose their value. This type of note-taking doesn’t accumulate long-term value.
 

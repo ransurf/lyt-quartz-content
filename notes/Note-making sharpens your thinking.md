@@ -4,8 +4,6 @@ up:
 related:
   - "[[Note-making creates unexpected optionality|Note-making creates unexpected optionality]]"
 created: 2023-08-29T07:11:38
-tags:
-  - map
 ---
 Note-making forces clear, sharp thinking. Here are the basic steps: ^5e4e28c7
 
