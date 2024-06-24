@@ -4,8 +4,6 @@ up:
 related:
   - "[[./Cobwebs into Cables|Cobwebs into Cables]]"
 created: 2023-08-29T07:01:11
-tags:
-  - map
 ---
  *Pheromone trails can become pheromone super-highways.*
 
