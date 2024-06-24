@@ -6,7 +6,6 @@ related:
 created: 2023-08-29T07:01:21
 tags:
   - concept
-  - map
 ---
  *Stronger from stressors!*
 
