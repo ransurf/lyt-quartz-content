@@ -3,8 +3,6 @@ up:
   - "[[Ideaverse Map|Ideaverse Map]]"
 related: []
 created: 2023-08-29T07:10:26
-tags:
-  - map
 ---
  *Disclaimer*: If you are completely new, ignore most of Ideaverse for Obsidian and just start making notes. Come back after you have at least 100 notes. 
 
