@@ -1,7 +1,5 @@
 ---
 created: 2023-08-29T09:25:53
-tags:
-  - map
 ---
 Welcome to Ideaverse for Obsidian. 
 
