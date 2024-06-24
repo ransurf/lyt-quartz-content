@@ -4,8 +4,6 @@ up:
 related: []
 created: 2023-08-29T07:10:10
 modified: 2023-08-25
-tags:
-  - map
 ---
 
 # Ideaverse for Obsidian 1.0 - Release Notes
