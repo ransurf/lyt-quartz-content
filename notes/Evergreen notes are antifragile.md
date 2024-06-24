@@ -3,8 +3,6 @@ up:
   - "[[Evergreen notes|Evergreen notes]]"
 related: []
 created: 2023-08-29T07:08:01
-tags:
-  - map
 ---
 The most profound and revolutionary aspect of evergreen notes is that they exhibit [[./Antifragility|Antifragility]]. The effects of this are hard to overstate.
 
