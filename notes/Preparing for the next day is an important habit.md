@@ -4,8 +4,6 @@ up:
 related: []
 created: 2023-08-29T07:12:06
 modified: 2020-05-28
-tags:
-  - map
 ---
 This should read as common sense. Still, a refresher is nice.
 
