@@ -1,13 +1,5 @@
 ---
 title: Notes
-afterBodyFields:
-  - Navigate key notes behind the scenes
-Thinking:
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
-Writing:
-  - "[[5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]"
-Maps of Content: "[[What can we learn from nerdy discussions on MOCs]]"
-type: 
 created: 2024-05-16T04:23:43
 pageListSortType: published
 cssclasses:
@@ -33,4 +25,9 @@ This page a home base for the notes that are behind the scenes. At the bottom of
 > - [[./Flow|Flow]] and the [[./Flow Map|Flow Map]] and the [[./FlowCreation MOC|FlowCreation MOC]].
 > - [[./Antifragility|Antifragility]] and [[./Lindy Effect|Lindy Effect]].
 
+---
+
+## All Notes in Chronological Order
+
+This is a complete list of notes in the private, [downloadable ideaverse](https://start.linkingyourthinking.com/ideaverse-for-obsidian). Enjoy.
 
