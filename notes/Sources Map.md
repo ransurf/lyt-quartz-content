@@ -10,30 +10,14 @@ What "sources" should you track?
 How about books and movies?
 
 > [!Book]- ### Books
-> ```dataview
-> TABLE WITHOUT ID
->  year as "Year",
->  file.link as Book
->  
-> FROM "Atlas/Notes/Sources" and -#x/readme
+>  | Year | Book |
+> | ---- | ---- |
 > 
-> WHERE type = [[Book]]
-> 
-> SORT year asc
-> ```
 
 > [!video]- ### Movies
-> ```dataview
-> TABLE WITHOUT ID
->  year as "Year",
->  file.link as Movie
->  
-> FROM "Atlas/Notes/Sources" and -#x/readme
+>  | Year | Movie |
+> | ---- | ----- |
 > 
-> WHERE type = [[Movie]]
-> 
-> SORT year asc
-> ```
 
 For the Fall 2023 Ideaverse, I am playing around with a property field called `type`. It allows me a nice way to create a few passive maps for different types of sources. Here's what I have so far, feel free to make more:
 
@@ -44,16 +28,9 @@ For more ideas, check out the tags pane. Find "source" and twirl it down. The so
 > [!Script]- ## ALL SOURCES
 > This is a simple data view pulling anything from the **Sources** folder.
 > 
-> ```dataview
-> TABLE WITHOUT ID
->  year as "Year",
->  type as Type,
->  file.link as Source
->  
-> FROM "Atlas/Notes/Sources" and -#x/readme 
+>  | Year | Type | Source |
+> | ---- | ---- | ------ |
 > 
-> SORT year asc
-> ```
 
 Not included here, but in my personal vault, I enjoy checking out the comprehensive [[Source MOC|Source MOC]] and perusing my [[Bookshelf 📚|Bookshelf 📚]]. And to honor the old ones, I also keep a [[./Commonplace Book|Commonplace Book]] based on tags.
 
