@@ -74,11 +74,13 @@ The main contextual queries I prefer are "unrequited" & "unmentioned" notes.
 > These notes point directly to this note. But this note doesn't point back (yet).
 > This is the strongest contextual query.
 > 
-> ```dataview
-> LIST
+>  - [[./Assembling a random article on habits|Assembling a random article on habits]]
+> - [[./Deliberate Practice|Deliberate Practice]]
+> - [[./Habits MOC - Collide|Habits MOC - Collide]]
+> - [[../Ideaverse Map|Ideaverse Map]]
+> - [[./Library|Library]]
+> - [[../maps/index|maps]]
+> - [[./index|notes]]
+> - [[../maps/Thinking|Thinking]]
+> - [[./Use it or Lose it|Use it or Lose it]]
 > 
-> FROM [[Habits Map]]
-> and !outgoing([[Habits Map]])
-> 
-> SORT file.name asc
-> ```
