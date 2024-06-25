@@ -1,8 +1,8 @@
 ---
 created: 2024-05-17T01:00:36
+cssclasses:
+  - grid
 ---
-These are maps you can browse.
-
 Maps of Content are a special type of note that supercharges how fast you can build relationships between ideas. They came alive in 2020 at the start of the age of linked notes. 
 
 > [!hint] Most Crucial
@@ -25,7 +25,7 @@ Maps of Content are a special type of note that supercharges how fast you can bu
 
 To learn more about Maps of Content, either visit [[../notes/MOCs (defn)|MOCs (defn)]] or check out the guided walkthrough below:
 
-> [!hint]+ ## How to use Maps of Content (MOCs)
+> [!hint]+ How to use Maps of Content (MOCs)
 > MOCs help you do three things: *gather, develop, and navigate* your ideas. 
 > 
 > - [[../notes/The 3 Phases of MOCs|The 3 Phases of MOCs]]
