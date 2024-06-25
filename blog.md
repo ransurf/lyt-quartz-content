@@ -24,7 +24,9 @@ Welcome to the Ideaverse Blog. This is a digital garden.
 > 	- [[./maps/Sensemaking|Sensemaking]]
 > 	- [[./maps/Writing|Writing]]
 
-> [!Notes] Essays, [[./essays/index|Essays]]
+> [!EMPTY] 
+
+> [!note] [[./essays/index|Essays]]
 > - [[./essays/In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
 > - [[./essays/5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]
 
