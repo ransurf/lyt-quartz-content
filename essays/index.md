@@ -21,6 +21,8 @@ This page pulls together the essays across the ideaverse. At the bottom of the p
 > [!hint] Most Popular
 > - [[./Are You More of an Architect or a Gardener?|Are you more of an architect or a gardener?]]
 
+> [!EMPTY] 
+
 > [!danger] Classics
 > - [[./In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
 
