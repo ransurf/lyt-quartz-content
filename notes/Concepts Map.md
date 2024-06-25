@@ -37,27 +37,33 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 > [!Venetian]+ Unrequited notes
 > These notes point directly to this note. But this note doesn't point back (yet). This is the strongest contextual query.
 > 
-> ```dataview
-> LIST
+>  - [[./index|notes]]
+> - [[../maps/index|maps]]
+> - [[./Gall's Law|Gall's Law]]
+> - [[./Signal to Noise Ratio|Signal to Noise Ratio]]
+> - [[./Strong opinions, weakly held|Strong opinions, weakly held]]
+> - [[./Wu wei|Wu wei]]
 > 
-> FROM [[Concepts Map]]
-> and !outgoing([[Concepts Map]])
-> and -#map
-> 
-> SORT file.mtime desc
-> ```
 
 > [!Venetian]- Unmentioned notes in common
 > These notes share the tag `#concept` and are not mentioned above.
 > 
-> ```dataview
-> LIST
+>  - [[./Cobwebs into Cables|Cobwebs into Cables]]
+> - [[./Dimensions of Reality|Dimensions of Reality]]
+> - [[./Feedback Loop|Feedback Loop]]
+> - [[./Framing|Framing]]
+> - [[./Gall's Law|Gall's Law]]
+> - [[./Like begets like|Like begets like]]
+> - [[./Method of Loci|Method of Loci]]
+> - [[./Newton's Laws of Motion|Newton's Laws of Motion]]
+> - [[./Priming|Priming]]
+> - [[./Selfish Gene|Selfish Gene]]
+> - [[./Signal to Noise Ratio|Signal to Noise Ratio]]
+> - [[./Strong opinions, weakly held|Strong opinions, weakly held]]
+> - [[./Use it or Lose it|Use it or Lose it]]
+> - [[./Wu wei|Wu wei]]
+> - [[./You are what you eat|You are what you eat]]
 > 
-> FROM #concept
-> and !outgoing([[Concepts Map]])
-> 
-> SORT file.name asc
-> ```
 
 ---
 

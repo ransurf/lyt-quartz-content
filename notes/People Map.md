@@ -12,15 +12,10 @@ Here's a cool view for you:
 > [!user]+ ## Prominent People 🌋
 > The hope is to see these prominent people in various ways to pull out insights. For example, by date allowed me to see that both Carl Sagan and Mihaly Csikszentmihalyi were born in 1934.
 > 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as People,
->  dates as "Years Lived"
+>  | People                                    | Years Lived |
+> | ----------------------------------------- | ----------- |
+> | [[./Ptolemy (kit)\|Ptolemy (kit)]] | 100 - 170   |
 > 
-> FROM #people
-> 
-> SORT dates asc
-> ```
 > 
 > ---
 > 
