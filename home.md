@@ -15,7 +15,7 @@ Your launchpad and home base. That's here. That's **home**.
 > ![[./attachments/mckie-ship-and-sea-mid-narrow-.jpg|400]]
 > - To launch into your knowledge, try out: [[./notes/Library|Library]] | [[./notes/People Map|People Map]] | [[./notes/Sources Map|Sources Map]].
 > - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/Concepts Map|Concepts Map]]. 
-> - For grounding, [[./notes/Life Map|Life Map]]. For training, [[./Ideaverse Map|Ideaverse Map]]. For rules, [[./notes/Meta PKM|Meta PKM]].
+> - For grounding, [[./notes/Life Map|Life Map]]. For t[](./maps/Thinking.md#)deaverse Map]]. For rules, [[./notes/Meta PKM|Meta PKM]].
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 

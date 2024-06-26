@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Thinking Map|Thinking Map]]"
+  - "[[Thinking|Thinking]]"
 related:
   - "[[./Refraction Thinking|Refraction Thinking]]"
 created: 2023-08-28T02:48:15

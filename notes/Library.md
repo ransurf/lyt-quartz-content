@@ -34,7 +34,7 @@ Navigate your library of maps with a classification system made specifically for
 > - [[Cartographer's Corner 🗺|Cartographer's Corner 🗺]] | [[./Commonplace Book|Commonplace Book]] | [[Knowledge and memory MOC|Knowledge and memory MOC]]
 
 > [!Milestone]+ ### 100 - Personal Management
-> The [[Thinking Map|Thinking Map]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[./Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[./My Virtues (starter)|My Virtues]] and more.
+> The [[../maps/Thinking|Thinking]] can galvanize my attention; the [[./Concepts Map|Concepts Map]] can flavor it; and the [[./Habits Map|Habits Map]] speaks about how to direct it. Hidden within in the [[./Cabin|Cabin]]. Go to my [[./Life Map|Life Map]] to brush up on [[./My Virtues (starter)|My Virtues]] and more.
 > 
 > - [[Posture MOC|Posture MOC]] | [[Hormesis MOC|Hormesis MOC]] | [[Breathing Exercises MOC|Breathing Exercises MOC]] | Flowcreation MOC
 > - People MOC | Family MOC | [[Prominent People (kit)|Prominent People (kit)]]
