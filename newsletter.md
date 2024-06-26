@@ -21,6 +21,6 @@ ctaFormId: xxxxxx
 
 Our newsletter delivers insights on creative productivity, knowledge management, and meaningful living.
 
--Nick Milo
+– Nick Milo
 
-![[./are-you-more-architect-or-gardener.png|are-you-more-architect-or-gardener]]
+![[./attachments/are-you-more-architect-or-gardener.png|are-you-more-architect-or-gardener.png]]
