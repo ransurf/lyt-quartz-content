@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Thinking Map|Thinking Map]]"
+  - "[[Thinking|Thinking]]"
 related: []
 created: 2023-08-29T06:52:52
 evolved: 2021-01-01
