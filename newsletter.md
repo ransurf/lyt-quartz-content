@@ -1,8 +1,8 @@
 ---
-title: Newsletter
-created: 2024-05-14T12:39:37
 up: 
 related: 
+title: Newsletter
+created: 2024-05-14T12:39:37
 category: 
 subtitle: 
 emerged: 
