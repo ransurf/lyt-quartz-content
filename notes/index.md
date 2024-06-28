@@ -9,8 +9,8 @@ Navigate key notes behind the scenes:
   - "[[../Ideaverse Map|Ideaverse Map]]"
   - "[[MOCs Overview|MOCs Overview]]"
   - "[[./Habits Map|Habits Map]]"
-breadcrumbLabel: 
-breadcrumbPath: index
+breadcrumbLabel: Home
+breadcrumbPath: /index
 ---
 This page a home base for the notes that are behind the scenes. At the bottom of the page, you’ll find a complete list.
 
