@@ -14,6 +14,8 @@ created: 2024-05-16T04:23:43
 pageListSortType: published
 cssclasses:
   - grid
+breadcrumbLabel: Home
+breadcrumbPath: /index
 ---
 
 This page pulls together the essays across the ideaverse. At the bottom of the page, you’ll find a complete list.
