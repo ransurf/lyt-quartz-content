@@ -3,8 +3,8 @@ title: Maps
 created: 2024-05-17T01:00:36
 cssclasses:
   - grid
-breadcrumbLabel: home
-breadcrumbPath: index
+breadcrumbLabel: Home
+breadcrumbPath: /index
 ---
 Maps of Content are a special type of note that supercharges how fast you can build relationships between ideas. They came alive in 2020 at the start of the age of linked notes. 
 
