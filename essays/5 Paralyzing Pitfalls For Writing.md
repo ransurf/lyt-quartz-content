@@ -5,7 +5,7 @@ related:
 category: Writings
 title: 5 Paralyzing Pitfalls For Writing
 subtitle: 
-created: 2024-05-07
+created: 2024-05-07T12:00:00
 emerged: 2024-04-25
 evolved: 2024-05-01
 state:

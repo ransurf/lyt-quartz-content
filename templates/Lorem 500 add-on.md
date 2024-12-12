@@ -1,22 +1,3 @@
----
-up:
-  - "[[Creativity|Creativity]]"
-related:
-  - "[[Thinking|Thinking]]"
-category: 
-title: Test Essay on Lorem Ipsum Dolor Sit Amet, consectetur adipiscing elit
-subtitle: Aliquet eget sit amet tellus cras adipiscing enim
-created: 2024-06-24T12:00:00
-emerged: 2024-02-15
-evolved: 2024-06-24
-state:
-  - Sapling
-ctaTitle: Start Linking Your Thinking!
-ctaSubtitle: You can do it
-ctaButton: Get the Ultimate Primer
-ctaFormId: 
-ctaType: cta2
----
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Leo a diam sollicitudin tempor id eu nisl. 

@@ -3,7 +3,7 @@ up:
   - "[[Ideaverse Kit (example)|Ideaverse Kit (example)]]"
 related:
   - "[[Callouts (Function)|Callouts (Function)]]"
-created: 2023-11-01
+created: 2023-11-01T12:00:00
 cssclasses:
   - wide-page
 version:
@@ -136,7 +136,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!Cog] Cog
 > 
 > > [!COMMAND]- Command 
-> > For...Resources and Settings ~~(or Instructions)~~
+> > For…Resources and Settings ~~(or Instructions)~~
 > 
 > > [!Hexagon]- Hexagon
 > 
@@ -149,7 +149,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!NOTES]- Notes
 > 
 > > [!SCRIPT]- Script
-> > For...Audio transcripts and other scripts
+> > For…Audio transcripts and other scripts
 > 
 > > [!Settings] Settings
 > 
@@ -170,7 +170,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!Gem] Gem
 > 
 > > [!JOYSTICK]- Joystick
-> >  For...Simulations
+> > For…Simulations
 > 
 > > [!Milestone]- Milestone
 > 
@@ -197,7 +197,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!Cable-car]- Cable-car
 > 
 > > [!Camera]- Camera 
-> > For...Images
+> > For…Images
 > 
 > > [!Castle]- Castle
 > 
@@ -285,7 +285,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!alarm] Alarm
 > 
 > > [!AWARD]- Award 
-> > For...Awards.
+> > For…Awards.
 > 
 > > [!Cone]- Cone
 > 
@@ -306,7 +306,7 @@ Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity
 > > [!Trendingdown] Trendingdown
 > 
 > > [!Watch]- Watch 
-> > For...Training, Basic Training Wing
+> > For…Training, Basic Training Wing
 > 
 > > [!Youtube]- Youtube
 > 
@@ -327,20 +327,19 @@ Activate the plugin "List Callouts" by mgmeyers to see the color below.
 - ? came from `- ?` = Question
 - ~ came from `- ~` = Bookmark
 
-
 # Callouts Newly Rendered, Not Placed
 | Number | Colors | Amount |
-| ---- | ---- | ---- |
-| 1 | Purple | 14 |
-| 2 | Cyan | 14 |
-| 3 | Orange | 13 |
-| 4 | Yellow | 14 |
-| 5 | Grey | 14 |
-| 6 | Pink | 14 |
-| 7 | Mint | 14 |
-| 8 | Green | 14 |
-| 9 | Blue | 13 |
-| 10 | Red | 13 |
+| ------ | ------ | ------ |
+| 1      | Purple | 14     |
+| 2      | Cyan   | 14     |
+| 3      | Orange | 13     |
+| 4      | Yellow | 14     |
+| 5      | Grey   | 14     |
+| 6      | Pink   | 14     |
+| 7      | Mint   | 14     |
+| 8      | Green  | 14     |
+| 9      | Blue   | 13     |
+| 10     | Red    | 13     |
 
 # Callouts Not Rendering Yet
 
