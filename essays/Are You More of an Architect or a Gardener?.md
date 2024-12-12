@@ -9,8 +9,9 @@ state:
   - Seedling
 subtitle: 
 created: 2024-05-08T10:51:52
-published: 2024-04-25
+emerged: 2024-04-25
 ctaType: cta2
+eme: 
 ---
 Have you ever walked in a Japanese garden?
 
