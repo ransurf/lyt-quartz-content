@@ -14,7 +14,7 @@ state:
 ctaTitle: Start Linking Your Thinking!
 ctaSubtitle: You can do it
 ctaButton: Get the Ultimate Primer
-ctaFormId: xxxxxx
+ctaFormId: 
 ctaType: cta2
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
