@@ -3,11 +3,12 @@ up:
 related: 
 category: 
 title: 
-subtitle: 
-created: 2024-12-11T05:56:22
-emerged: 
-evolved: 
-state: 
+subtitle: 4 Changes Made The Difference
+created: 2024-12-06T12:00:00
+emerged: 2024-12-06
+evolved: 2024-12-06
+state:
+  - Sapling
 ctaType: default
 ctaTitle: 
 ctaSubtitle: 
