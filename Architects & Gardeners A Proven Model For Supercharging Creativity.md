@@ -4,7 +4,7 @@ related:
 category: 
 title: "Architects & Gardeners: A Proven Model For Supercharging Creativity"
 subtitle: Are you an architect or a gardener?
-created: 2024-05-25
+created: 2024-05-25T12:00:00
 emerged: 
 evolved: 
 ctaTitle: 
@@ -16,7 +16,7 @@ ctaFormId:
 
 Architects are top-down thinkers that prioritize **order** and **structure**. 
 
-They prefer working with the end in mind. Brandon Sanderson—popular fantasy author of the Stormlight Archive and Mistborn series—is a great example of an architect. His  outlines could be novels in themselves.
+They prefer working with the end in mind. Brandon Sanderson—popular fantasy author of the Stormlight Archive and Mistborn series—is a great example of an architect. His outlines could be novels in themselves.
 %%If you want to use a different example then Brandon Sanderson go ahead. he’s Just familiar to me and I think having some examples early on will give people clarity over what architects and gardeners are like.%%
 Gardeners are bottom-up thinkers that prioritize **chaos** and **curiosity.** 
 
