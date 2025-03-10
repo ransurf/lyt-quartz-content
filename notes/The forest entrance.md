@@ -5,7 +5,7 @@ Welcome to Ideaverse for Obsidian.
 
 LYT stands for **Linking Your Thinking**.
 
-Learn about the 5-week workshop [here](https://www.linkingyourthinking.com/waitlist). Lose less, think better.
+Learn about the 4-week workshop [here](https://www.linkingyourthinking.com/waitlist). Lose less, think better.
 
 »» [Download Ideaverse for Obsidian](https://www.linkingyourthinking.com/myideaverse/start) «« 
 %% If you are reading this, you already downloaded it. %%
