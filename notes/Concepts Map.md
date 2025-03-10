@@ -37,8 +37,8 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 > [!Venetian]+ Unrequited notes
 > These notes point directly to this note. But this note doesn't point back (yet). This is the strongest contextual query.
 > 
->  - [[./index|notes]]
-> - [[../maps/index|maps]]
+>  - [[../maps/index|maps]]
+> - [[./index|notes]]
 > - [[./Gall's Law|Gall's Law]]
 > - [[./Signal to Noise Ratio|Signal to Noise Ratio]]
 > - [[./Strong opinions, weakly held|Strong opinions, weakly held]]
