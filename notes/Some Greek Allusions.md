@@ -5,6 +5,7 @@ related: []
 created: 2023-08-29T07:13:01
 ---
 Many of the words we use today are actually allusions to historical figures and Greek Gods. Here are just a few examples:
+
 Greek
 
 Like other uses of simile, this example functions to help readers visualize the situation.
@@ -29,7 +30,7 @@ Like other uses of simile, this example functions to help readers visualize the 
 - Titanic – grand and enormous. Named after Tityus, the son of Zeus and Elara, whose body covered nearly two acres.
 - Volcanoes – originated from Vulcan, the Roman god of fire.
 
-> [!NOTE]- Some links and content in this note have been removed.
+> [!NOTE]- Some links and content in this note have been removed
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
