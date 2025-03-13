@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../home|Home]]"
+  - "[[../home|home]]"
 related: []
 created: 2023-08-29T06:50:08
 tags:
@@ -91,4 +91,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to: [[../home|Home]]
+Up to: [[../home|home]]
