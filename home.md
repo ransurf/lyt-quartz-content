@@ -7,7 +7,7 @@ created: 2024-05-05T01:13:31
 
 Your launchpad and home base. That's here. That's **home**.
 
-> [!Map]- # Atlas
+> [!Map]- Atlas
 > > *Where would you like to go?*
 > 
 > - To do inspired work, go to [[./notes/Add|Add]], [[./notes/Relate|Relate]], and [[./notes/Communicate|Communicate]].
@@ -17,7 +17,7 @@ Your launchpad and home base. That's here. That's **home**.
 > - To catalyze your mind, go to your [[./maps/Thinking|Thinking]] and [[./notes/Concepts Map|Concepts Map]]. 
 > - For grounding, [[./notes/Life Map|Life Map]]. For t[](./maps/Thinking.md#)deaverse Map]]. For rules, [[./notes/Meta PKM|Meta PKM]].
 
-> [!Calendar]- # Calendar
+> [!Calendar]- Calendar
 > > *What's on your mind?* 
 > 
 > - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
@@ -27,7 +27,7 @@ Your launchpad and home base. That's here. That's **home**.
 > - To broadly reflect, go to [[./notes/Plan and Review|Plan and Review]].
 > - To learn more about time travel, go to [[./notes/Calendar|Calendar]].
 
-> [!Training]- # Efforts
+> [!Training]- Efforts
 > > *What can you work on?* 
 > 
 > For a concentrated view, go to [[./notes/Efforts|Efforts]].
