@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../home|Home]]"
+  - "[[../home|home]]"
 related: []
 created: 2023-08-29T06:53:08
 tags:
@@ -72,4 +72,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[../home|Home]] !
+Back to: [[../home|home]] !
