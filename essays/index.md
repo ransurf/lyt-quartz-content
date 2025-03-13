@@ -5,7 +5,7 @@ afterBodyFields:
   - Writing
   - Maps of Content
 Thinking:
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
+  - "[[./Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]"
 Writing:
   - "[[5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]"
 Maps of Content: "[[What can we learn from nerdy discussions on MOCs]]"
@@ -21,7 +21,7 @@ breadcrumbPath: /index
 This page pulls together the essays across the ideaverse. At the bottom of the page, you’ll find a complete list.
 
 > [!hint] Most Popular
-> - [[./Are You More of an Architect or a Gardener?|Are you more of an architect or a gardener?]]
+> - [[./Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]
 
 > [!EMPTY] 
 
@@ -36,7 +36,7 @@ This page pulls together the essays across the ideaverse. At the bottom of the p
 > [!EMPTY] 
 
 > [!INFO] Writing & Thinking
-> - [[./Are You More of an Architect or a Gardener?|Are you more of an architect or a gardener?]]
+> - [[./Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]
 
 Let’s explore the concept of the essay.
 
