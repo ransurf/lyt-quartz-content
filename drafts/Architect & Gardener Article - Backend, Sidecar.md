@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
+  - "[[Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]"
 related: 
 created: 2024-05-14T12:13:35
 ---
