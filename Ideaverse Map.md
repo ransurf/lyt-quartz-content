@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[./home|Home]]"
+  - "[[./home|home]]"
 created: 2024-05-17T05:29:22
 obsidianUIMode: preview
 tags:
@@ -102,4 +102,4 @@ tags:
 > - [[./notes/Guiding assumptions for linked notes|Guiding assumptions for linked notes]]
 > - [[./notes/Ideaverse for Obsidian - Release Notes|Ideaverse for Obsidian - Release Notes]]
 
-Back to [[./home|Home]]
+Back to [[./home|home]]
