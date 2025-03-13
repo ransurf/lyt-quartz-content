@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 created: 2023-08-29T06:50:30
 tags:
   - map
