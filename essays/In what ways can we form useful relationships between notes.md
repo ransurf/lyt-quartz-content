@@ -2,7 +2,7 @@
 up:
   - "[[Knowledge Management|Knowledge Management]]"
 related:
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
+  - "[[Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]"
 category: Essays
 title: In what ways can we form useful relationships between notes?
 subtitle: 
