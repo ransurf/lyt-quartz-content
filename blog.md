@@ -39,5 +39,4 @@ Welcome to the Ideaverse Blog. This is a digital garden.
 > - [[./home|Home]]
 > - [[./Ideaverse Map|Ideaverse Map]]
 
----
 
