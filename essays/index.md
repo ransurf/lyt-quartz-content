@@ -26,12 +26,12 @@ This page pulls together the essays across the ideaverse. At the bottom of the p
 > [!EMPTY] 
 
 > [!danger] Classics
-> - [[./In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
+> - [[./essays/In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
 
 <br/>
 
 > [!question] Knowledge Management
-> - [[./In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
+> - [[./essays/In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]
 
 > [!EMPTY] 
 
