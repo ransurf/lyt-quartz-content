@@ -5,10 +5,10 @@ afterBodyFields:
   - Writing
   - Maps of Content
 Thinking:
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
+  - "[[Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]"
 Writing:
   - "[[./essays/5 Paralyzing Pitfalls For Writing|5 Paralyzing Pitfalls For Writing]]"
-  - "[[Are You More of an Architect or a Gardener?|Are You More of an Architect or a Gardener?]]"
+  - "[[Are You More of an Architect or a Gardener|Are You More of an Architect or a Gardener]]"
   - "[[Is there something rotten at OpenAI|Is there something rotten at OpenAI]]"
   - "[[./essays/In what ways can we form useful relationships between notes|In what ways can we form useful relationships between notes]]"
 Maps of Content: "[[What can we learn from nerdy discussions on MOCs]]"
