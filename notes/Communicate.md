@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home|Home]]"
+  - "[[home|home]]"
 related:
   - "[[Add|Add]]"
   - "[[Relate|Relate]]"
